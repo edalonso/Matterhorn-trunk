@@ -1,0 +1,36 @@
+Manifest-Version: 1
+Bnd-LastModified: 1321822313238
+Build-Jdk: 1.6.0_17
+Built-By: pauls
+Bundle-Description: OSGi R4 framework.
+Bundle-DocURL: http://www.apache.org/
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apache Felix
+Bundle-SymbolicName: org.apache.felix.main
+Bundle-Vendor: The Apache Software Foundation
+Bundle-Version: 4.0.2
+Created-By: Apache Maven Bundle Plugin
+Embed-Dependency: *;artifactId=org.apache.felix.framework;inline=true
+Export-Package: org.osgi.framework.startlevel;uses:="org.osgi.framework"
+ ;version="1.0",org.osgi.framework.wiring;uses:="org.osgi.framework";ver
+ sion="1.0",org.osgi.service.url;version="1.0",org.osgi.framework.hooks.
+ bundle;uses:="org.osgi.framework";version="1.0",org.osgi.service.packag
+ eadmin;uses:="org.osgi.framework";version="1.2",org.osgi.framework.hook
+ s.service;uses:="org.osgi.framework";version="1.1",org.osgi.framework.h
+ ooks.resolver;uses:="org.osgi.framework.wiring";version="1.0",org.osgi.
+ service.startlevel;uses:="org.osgi.framework";version="1.1",org.osgi.fr
+ amework.launch;uses:="org.osgi.framework";version="1.0",org.osgi.util.t
+ racker;uses:="org.osgi.framework";version="1.5",org.osgi.framework;vers
+ ion="1.6",org.osgi.framework.hooks.weaving;uses:="org.osgi.framework.wi
+ ring";version="1.0"
+Ignore-Package: java.util.jar,java.util,java.nio.channels,org.osgi.frame
+ work.startlevel,java.net,org.osgi.framework.wiring,org.osgi.service.url
+ ,org.osgi.service.packageadmin,org.osgi.framework.hooks.bundle,org.osgi
+ .framework.hooks.service,dalvik.system,org.osgi.framework.hooks.resolve
+ r,java.security,org.osgi.service.startlevel,java.lang.reflect,java.secu
+ rity.cert,org.osgi.framework.launch,java.io,java.util.zip,javax.securit
+ y.auth.x500,java.lang.ref,org.osgi.framework.hooks.weaving,java.lang,an
+ droid.dalvik
+Main-Class: org.apache.felix.main.Main
+Tool: Bnd-1.43.0

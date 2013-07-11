@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/13079/MH/trunk/modules/matterhorn-episode-service-impl/src/main/resources/OSGI-INF
+END
+episode-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/13079/MH/trunk/modules/matterhorn-episode-service-impl/src/main/resources/OSGI-INF/episode-service.xml
+END
+episode-service-persistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/12573/MH/trunk/modules/matterhorn-episode-service-impl/src/main/resources/OSGI-INF/episode-service-persistence.xml
+END
+episode-service-rest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/13079/MH/trunk/modules/matterhorn-episode-service-impl/src/main/resources/OSGI-INF/episode-service-rest.xml
+END

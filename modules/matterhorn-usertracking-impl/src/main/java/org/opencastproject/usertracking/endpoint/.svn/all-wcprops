@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/13334/MH/trunk/modules/matterhorn-usertracking-impl/src/main/java/org/opencastproject/usertracking/endpoint
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/13334/MH/trunk/modules/matterhorn-usertracking-impl/src/main/java/org/opencastproject/usertracking/endpoint/package-info.java
+END
+FootprintsListImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/13334/MH/trunk/modules/matterhorn-usertracking-impl/src/main/java/org/opencastproject/usertracking/endpoint/FootprintsListImpl.java
+END
+FootprintImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/13334/MH/trunk/modules/matterhorn-usertracking-impl/src/main/java/org/opencastproject/usertracking/endpoint/FootprintImpl.java
+END
+ReportItemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/13334/MH/trunk/modules/matterhorn-usertracking-impl/src/main/java/org/opencastproject/usertracking/endpoint/ReportItemImpl.java
+END
+ReportImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/13334/MH/trunk/modules/matterhorn-usertracking-impl/src/main/java/org/opencastproject/usertracking/endpoint/ReportImpl.java
+END
+StatsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/13334/MH/trunk/modules/matterhorn-usertracking-impl/src/main/java/org/opencastproject/usertracking/endpoint/StatsImpl.java
+END
+UserTrackingRestService.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/13334/MH/trunk/modules/matterhorn-usertracking-impl/src/main/java/org/opencastproject/usertracking/endpoint/UserTrackingRestService.java
+END

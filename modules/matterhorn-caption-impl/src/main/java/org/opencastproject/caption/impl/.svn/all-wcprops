@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/13576/MH/trunk/modules/matterhorn-caption-impl/src/main/java/org/opencastproject/caption/impl
+END
+CaptionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/7943/MH/trunk/modules/matterhorn-caption-impl/src/main/java/org/opencastproject/caption/impl/CaptionImpl.java
+END
+CaptionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/13576/MH/trunk/modules/matterhorn-caption-impl/src/main/java/org/opencastproject/caption/impl/CaptionServiceImpl.java
+END
+TimeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/12053/MH/trunk/modules/matterhorn-caption-impl/src/main/java/org/opencastproject/caption/impl/TimeImpl.java
+END

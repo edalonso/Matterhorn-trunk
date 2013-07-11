@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/9585/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/resource
+END
+StateResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/9585/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/resource/StateResources.java
+END
+FilesResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/9186/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/resource/FilesResources.java
+END
+CaptureResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/9585/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/resource/CaptureResources.java
+END
+SearchResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/9585/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/resource/SearchResources.java
+END
+ComposerResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/9585/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/resource/ComposerResources.java
+END
+AdminResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/9585/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/resource/AdminResources.java
+END
+IngestResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/9585/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/resource/IngestResources.java
+END
+WorkflowResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/9585/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/resource/WorkflowResources.java
+END
+InspectionResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/9585/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/resource/InspectionResources.java
+END
+CaptureAdminResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/9585/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/resource/CaptureAdminResources.java
+END
+DistributeResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/9585/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/resource/DistributeResources.java
+END
+SchedulerResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/9585/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/resource/SchedulerResources.java
+END

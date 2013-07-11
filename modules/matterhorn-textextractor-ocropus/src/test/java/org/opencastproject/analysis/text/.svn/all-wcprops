@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/10076/MH/trunk/modules/matterhorn-textextractor-ocropus/src/test/java/org/opencastproject/analysis/text
+END
+OcropusTextFrameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/10076/MH/trunk/modules/matterhorn-textextractor-ocropus/src/test/java/org/opencastproject/analysis/text/OcropusTextFrameTest.java
+END
+OcropusTextExtractorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/10076/MH/trunk/modules/matterhorn-textextractor-ocropus/src/test/java/org/opencastproject/analysis/text/OcropusTextExtractorTest.java
+END
+OcropusTextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/10076/MH/trunk/modules/matterhorn-textextractor-ocropus/src/test/java/org/opencastproject/analysis/text/OcropusTextTest.java
+END

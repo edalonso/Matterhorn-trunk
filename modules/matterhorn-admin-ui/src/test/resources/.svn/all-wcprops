@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14314/MH/trunk/modules/matterhorn-admin-ui/src/test/resources
+END
+jsTestDriver.conf
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14314/MH/trunk/modules/matterhorn-admin-ui/src/test/resources/jsTestDriver.conf
+END
+JsTestDriver-1.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/6294/MH/trunk/modules/matterhorn-admin-ui/src/test/resources/JsTestDriver-1.2.1.jar
+END
+JsTestDriver-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/6294/MH/trunk/modules/matterhorn-admin-ui/src/test/resources/JsTestDriver-1.2.jar
+END

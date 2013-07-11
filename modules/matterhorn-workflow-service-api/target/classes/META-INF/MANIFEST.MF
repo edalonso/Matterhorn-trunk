@@ -1,0 +1,35 @@
+Manifest-Version: 1.0
+Export-Package: org.opencastproject.workflow.api;uses:="org.opencastpr
+ oject.job.api,org.opencastproject.serviceregistry.api,org.apache.comm
+ ons.io,org.opencastproject.mediapackage,org.osgi.service.component,or
+ g.apache.commons.lang,org.opencastproject.util.data,org.opencastproje
+ ct.util.data.functions,org.opencastproject.util,javax.xml.bind.annota
+ tion.adapters,javax.xml.bind.annotation,org.opencastproject.security.
+ api,javax.xml.transform,javax.xml.transform.stream,javax.xml.bind,org
+ .slf4j";version="1.5.0.SNAPSHOT"
+Built-By: eduardo
+Bundle-Category: opencastproject
+Tool: Bnd-0.0.357
+Bundle-Name: matterhorn-workflow-service-api
+Created-By: Apache Maven Bundle Plugin
+Bundle-Vendor: The Opencast Project
+Build-Jdk: 1.6.0_27
+Bundle-Version: 1.5.0.SNAPSHOT
+Bnd-LastModified: 1373447518408
+Bundle-ManifestVersion: 2
+Bundle-License: http://www.osedu.org/licenses/ECL-2.0/ecl2.txt
+Bundle-Description: The Opencast Project's Matterhorn software is a me
+ dia capture, processing, and distribution system
+Import-Package: javax.xml.bind,javax.xml.bind.annotation,javax.xml.bin
+ d.annotation.adapters,javax.xml.transform,javax.xml.transform.stream,
+ org.apache.commons.io;version="2.1",org.apache.commons.lang;version="
+ 2.6",org.opencastproject.job.api;version="1.5",org.opencastproject.me
+ diapackage;version="1.5",org.opencastproject.security.api;version="1.
+ 5",org.opencastproject.serviceregistry.api;version="1.5",org.opencast
+ project.util;version="1.5",org.opencastproject.util.data;version="1.5
+ ",org.opencastproject.util.data.functions;version="1.5",org.opencastp
+ roject.workflow.api;version="1.5",org.osgi.service.component;version=
+ "1.1",org.slf4j;version="1.5"
+Bundle-SymbolicName: matterhorn-workflow-service-api
+Bundle-DocURL: http://opencastproject.org/
+

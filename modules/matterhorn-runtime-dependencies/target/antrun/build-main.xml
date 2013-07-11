@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main" if="unpackTo">
+  <copy todir="${unpackTo}/lib/ext" failonerror="false">
+    <fileset dir="/opt/matterhorn/trunk/modules/matterhorn-runtime-dependencies/target/dependency" includes="**/*"/>
+  </copy>
+  <delete file="${unpackTo}/lib/matterhorn/matterhorn-runtime-dependencies-1.5-SNAPSHOT.jar"/>
+  <unzip dest="${unpackTo}/lib/matterhorn/matterhorn-runtime-dependencies-1.5-SNAPSHOT" overwrite="true">
+    <fileset dir="/opt/matterhorn/trunk/modules/matterhorn-runtime-dependencies/target">
+      <include name="matterhorn-runtime-dependencies-1.5-SNAPSHOT.jar"/>
+    </fileset>
+  </unzip>
+</target>
+</project>

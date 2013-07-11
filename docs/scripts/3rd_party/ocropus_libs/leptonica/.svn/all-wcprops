@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12367/MH/trunk/docs/scripts/3rd_party/ocropus_libs/leptonica
+END
+ports-compile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12244/MH/trunk/docs/scripts/3rd_party/ocropus_libs/leptonica/ports-compile
+END
+config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12244/MH/trunk/docs/scripts/3rd_party/ocropus_libs/leptonica/config.txt
+END
+linux-compile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12244/MH/trunk/docs/scripts/3rd_party/ocropus_libs/leptonica/linux-compile
+END
+mac-compile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10076/MH/trunk/docs/scripts/3rd_party/ocropus_libs/leptonica/mac-compile
+END
+win32-compile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12244/MH/trunk/docs/scripts/3rd_party/ocropus_libs/leptonica/win32-compile
+END

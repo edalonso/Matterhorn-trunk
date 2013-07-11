@@ -1,0 +1,7 @@
+#Wed Jul 10 11:13:02 CEST 2013
+/opt/matterhorn/trunk/modules/matterhorn-solr/src/main/java/org/apache/solr/core/OpencastSolrConfig.java=1373447290000
+/opt/matterhorn/trunk/modules/matterhorn-solr/src/main/java/org/opencastproject/solr/internal/EmbeddedSolrServerWrapper.java=1373447291000
+/opt/matterhorn/trunk/modules/matterhorn-solr/src/main/java/org/opencastproject/solr/NonTokenizingFactory.java=1373447291000
+/opt/matterhorn/trunk/modules/matterhorn-solr/src/main/java/org/opencastproject/solr/SolrServerFactory.java=1373447291000
+/opt/matterhorn/trunk/modules/matterhorn-solr/src/main/java/org/opencastproject/solr/WildcardQueryParserPlugin.java=1373447291000
+configuration*?=579D7AEC97906A77516E23C6DD7A0B292F56A673

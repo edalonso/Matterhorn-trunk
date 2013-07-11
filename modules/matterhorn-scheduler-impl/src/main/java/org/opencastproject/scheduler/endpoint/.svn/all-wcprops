@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/13887/MH/trunk/modules/matterhorn-scheduler-impl/src/main/java/org/opencastproject/scheduler/endpoint
+END
+SchedulerRestService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/13887/MH/trunk/modules/matterhorn-scheduler-impl/src/main/java/org/opencastproject/scheduler/endpoint/SchedulerRestService.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/8409/MH/trunk/modules/matterhorn-scheduler-impl/src/main/java/org/opencastproject/scheduler/endpoint/package-info.java
+END

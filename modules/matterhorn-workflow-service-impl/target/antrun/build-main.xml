@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main" if="unpackTo">
+  <delete file="${unpackTo}/lib/matterhorn/matterhorn-workflow-service-impl-1.5-SNAPSHOT.jar"/>
+  <unzip dest="${unpackTo}/lib/matterhorn/matterhorn-workflow-service-impl-1.5-SNAPSHOT" overwrite="true">
+    <fileset dir="/opt/matterhorn/trunk/modules/matterhorn-workflow-service-impl/target">
+      <include name="matterhorn-workflow-service-impl-1.5-SNAPSHOT.jar"/>
+    </fileset>
+  </unzip>
+</target>
+</project>

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/13345/MH/trunk/modules/matterhorn-capture-admin-service-impl/src/main/java/org/opencastproject/capture/admin/endpoint
+END
+CaptureAgentStateRestService.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/13345/MH/trunk/modules/matterhorn-capture-admin-service-impl/src/main/java/org/opencastproject/capture/admin/endpoint/CaptureAgentStateRestService.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-capture-admin-service-impl/src/main/java/org/opencastproject/capture/admin/endpoint/package-info.java
+END
+AgentStateUpdateList.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-capture-admin-service-impl/src/main/java/org/opencastproject/capture/admin/endpoint/AgentStateUpdateList.java
+END

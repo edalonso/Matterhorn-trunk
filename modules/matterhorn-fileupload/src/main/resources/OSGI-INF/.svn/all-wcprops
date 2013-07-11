@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14717/MH/trunk/modules/matterhorn-fileupload/src/main/resources/OSGI-INF
+END
+fileupload-service-rest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/12008/MH/trunk/modules/matterhorn-fileupload/src/main/resources/OSGI-INF/fileupload-service-rest.xml
+END
+fileupload-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/14717/MH/trunk/modules/matterhorn-fileupload/src/main/resources/OSGI-INF/fileupload-service.xml
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14314/MH/trunk/modules/matterhorn-conductor/src/test/resources
+END
+dublincore.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7686/MH/trunk/modules/matterhorn-conductor/src/test/resources/dublincore.xml
+END
+inspect_mediapackage_updated.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-conductor/src/test/resources/inspect_mediapackage_updated.xml
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-conductor/src/test/resources/manifest.xml
+END
+publish_search_mediapackage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-conductor/src/test/resources/publish_search_mediapackage.xml
+END
+av.mov
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14314/MH/trunk/modules/matterhorn-conductor/src/test/resources/av.mov
+END
+compose_muxing_mediapackage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-conductor/src/test/resources/compose_muxing_mediapackage.xml
+END
+published-mediapackage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/13834/MH/trunk/modules/matterhorn-conductor/src/test/resources/published-mediapackage.xml
+END
+distribute_mediapackage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-conductor/src/test/resources/distribute_mediapackage.xml
+END
+archive_mediapackage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/13541/MH/trunk/modules/matterhorn-conductor/src/test/resources/archive_mediapackage.xml
+END
+compose_encode_mediapackage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-conductor/src/test/resources/compose_encode_mediapackage.xml
+END
+updated-mediapackage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/13834/MH/trunk/modules/matterhorn-conductor/src/test/resources/updated-mediapackage.xml
+END
+compose_mediapackage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-conductor/src/test/resources/compose_mediapackage.xml
+END
+inspect_mediapackage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-conductor/src/test/resources/inspect_mediapackage.xml
+END
+publish_mediapackage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-conductor/src/test/resources/publish_mediapackage.xml
+END

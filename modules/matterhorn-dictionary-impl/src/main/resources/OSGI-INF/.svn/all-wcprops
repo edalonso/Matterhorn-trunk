@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/13520/MH/trunk/modules/matterhorn-dictionary-impl/src/main/resources/OSGI-INF
+END
+dictionary-scanner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/13520/MH/trunk/modules/matterhorn-dictionary-impl/src/main/resources/OSGI-INF/dictionary-scanner.xml
+END
+dictionary-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/10076/MH/trunk/modules/matterhorn-dictionary-impl/src/main/resources/OSGI-INF/dictionary-service.xml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/13679/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/persistence
+END
+PersistenceEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/13679/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/persistence/PersistenceEnv.java
+END
+PersistenceEnv2.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/13679/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/persistence/PersistenceEnv2.java
+END
+PersistenceUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/13679/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/persistence/PersistenceUtil.java
+END

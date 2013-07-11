@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14314/MH/trunk/modules/matterhorn-episode-service-impl/src/test/resources
+END
+series-dublincore.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/12573/MH/trunk/modules/matterhorn-episode-service-impl/src/test/resources/series-dublincore.xml
+END
+mpeg7.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/14314/MH/trunk/modules/matterhorn-episode-service-impl/src/test/resources/mpeg7.xml
+END
+manifest-full-no-checksum.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/14250/MH/trunk/modules/matterhorn-episode-service-impl/src/test/resources/manifest-full-no-checksum.xml
+END
+feeds.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/11004/MH/trunk/modules/matterhorn-episode-service-impl/src/test/resources/feeds.properties
+END
+manifest-a.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/14074/MH/trunk/modules/matterhorn-episode-service-impl/src/test/resources/manifest-a.xml
+END
+manifest-b.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/14074/MH/trunk/modules/matterhorn-episode-service-impl/src/test/resources/manifest-b.xml
+END
+manifest-c.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/14074/MH/trunk/modules/matterhorn-episode-service-impl/src/test/resources/manifest-c.xml
+END
+dublincore.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/12573/MH/trunk/modules/matterhorn-episode-service-impl/src/test/resources/dublincore.xml
+END
+series-dublincore-a.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/14074/MH/trunk/modules/matterhorn-episode-service-impl/src/test/resources/series-dublincore-a.xml
+END
+series-dublincore-b.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/14074/MH/trunk/modules/matterhorn-episode-service-impl/src/test/resources/series-dublincore-b.xml
+END
+manifest-simple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14250/MH/trunk/modules/matterhorn-episode-service-impl/src/test/resources/manifest-simple.xml
+END
+series-dublincore-c.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/14074/MH/trunk/modules/matterhorn-episode-service-impl/src/test/resources/series-dublincore-c.xml
+END
+dublincore-a.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/14074/MH/trunk/modules/matterhorn-episode-service-impl/src/test/resources/dublincore-a.xml
+END
+dublincore-b.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/14074/MH/trunk/modules/matterhorn-episode-service-impl/src/test/resources/dublincore-b.xml
+END
+manifest-full.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/14250/MH/trunk/modules/matterhorn-episode-service-impl/src/test/resources/manifest-full.xml
+END
+dublincore-c.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/14074/MH/trunk/modules/matterhorn-episode-service-impl/src/test/resources/dublincore-c.xml
+END

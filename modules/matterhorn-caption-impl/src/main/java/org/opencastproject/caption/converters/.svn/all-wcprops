@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/12079/MH/trunk/modules/matterhorn-caption-impl/src/main/java/org/opencastproject/caption/converters
+END
+SubRipCaptionConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/12053/MH/trunk/modules/matterhorn-caption-impl/src/main/java/org/opencastproject/caption/converters/SubRipCaptionConverter.java
+END
+Mpeg7CaptionConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/12079/MH/trunk/modules/matterhorn-caption-impl/src/main/java/org/opencastproject/caption/converters/Mpeg7CaptionConverter.java
+END
+DFXPCaptionConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/12053/MH/trunk/modules/matterhorn-caption-impl/src/main/java/org/opencastproject/caption/converters/DFXPCaptionConverter.java
+END

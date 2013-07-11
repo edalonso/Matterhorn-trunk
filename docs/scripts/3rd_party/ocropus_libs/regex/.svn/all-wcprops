@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12087/MH/trunk/docs/scripts/3rd_party/ocropus_libs/regex
+END
+win32-compile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10076/MH/trunk/docs/scripts/3rd_party/ocropus_libs/regex/win32-compile
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9190/MH/trunk/docs/scripts/3rd_party/ocropus_libs/regex/Makefile.am
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9190/MH/trunk/docs/scripts/3rd_party/ocropus_libs/regex/Makefile.in
+END
+config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12087/MH/trunk/docs/scripts/3rd_party/ocropus_libs/regex/config.txt
+END

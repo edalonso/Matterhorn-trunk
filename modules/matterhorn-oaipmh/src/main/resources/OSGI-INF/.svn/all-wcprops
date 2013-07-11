@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11102/MH/trunk/modules/matterhorn-oaipmh/src/main/resources/OSGI-INF
+END
+oai-pmh-server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10752/MH/trunk/modules/matterhorn-oaipmh/src/main/resources/OSGI-INF/oai-pmh-server.xml
+END
+oai-dc-metadata-provider.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10752/MH/trunk/modules/matterhorn-oaipmh/src/main/resources/OSGI-INF/oai-dc-metadata-provider.xml
+END
+matterhorn-harvester.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/11102/MH/trunk/modules/matterhorn-oaipmh/src/main/resources/OSGI-INF/matterhorn-harvester.xml
+END
+matterhorn-metadata-provider.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/10752/MH/trunk/modules/matterhorn-oaipmh/src/main/resources/OSGI-INF/matterhorn-metadata-provider.xml
+END
+matterhorn-record-handler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/11102/MH/trunk/modules/matterhorn-oaipmh/src/main/resources/OSGI-INF/matterhorn-record-handler.xml
+END

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main" if="unpackTo">
+  <delete file="${unpackTo}/lib/matterhorn/matterhorn-metadata-api-1.5-SNAPSHOT.jar"/>
+  <unzip dest="${unpackTo}/lib/matterhorn/matterhorn-metadata-api-1.5-SNAPSHOT" overwrite="true">
+    <fileset dir="/opt/matterhorn/trunk/modules/matterhorn-metadata-api/target">
+      <include name="matterhorn-metadata-api-1.5-SNAPSHOT.jar"/>
+    </fileset>
+  </unzip>
+</target>
+</project>

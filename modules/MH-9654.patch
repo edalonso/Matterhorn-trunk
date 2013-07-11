@@ -1,0 +1,64 @@
+Index: matterhorn-mediapackage-ui/src/main/resources/ui/scripts/jquery.mpeditor.js
+===================================================================
+--- matterhorn-mediapackage-ui/src/main/resources/ui/scripts/jquery.mpeditor.js	(revisión: 15027)
++++ matterhorn-mediapackage-ui/src/main/resources/ui/scripts/jquery.mpeditor.js	(copia de trabajo)
+@@ -461,8 +461,14 @@
+ 
+                 $(this).parent().children('.ui-icon').toggleClass('ui-icon-triangle-1-e');
+                 $(this).parent().children('.ui-icon').toggleClass('ui-icon-triangle-1-s');
+-                $(this).parent().next().toggle();
+-
++		var $content = $(this).parent().next();
++		if ($content.is(':visible')) {
++		    $content.toggle();
++		    parent.ocRecordings.adjustHoldActionPanelHeight($(this).height(), 'remove');
++		} else {
++		    $content.toggle();
++		    parent.ocRecordings.adjustHoldActionPanelHeight($(this).height(), 'add');
++		}
+                 return false;
+              });
+ 
+Index: matterhorn-conductor/src/main/resources/ui/operation/trim/trim.js
+===================================================================
+--- matterhorn-conductor/src/main/resources/ui/operation/trim/trim.js	(revisión: 15027)
++++ matterhorn-conductor/src/main/resources/ui/operation/trim/trim.js	(copia de trabajo)
+@@ -304,8 +304,14 @@
+     $(".collapse-control2").click(function () {
+         $(this).find(".ui-icon").toggleClass("ui-icon-triangle-1-e");
+         $(this).find(".ui-icon").toggleClass("ui-icon-triangle-1-s");
+-        $(this).next(".collapsable").toggle();
+-        parent.ocRecordings.adjustHoldActionPanelHeight();
++	var $content = $(this).next(".collapsable");
++        if ($content.is(':visible')) {
++            $content.toggle();
++            parent.ocRecordings.adjustHoldActionPanelHeight($(this).height(), 'remove');
++	} else {
++            $content.toggle();
++            parent.ocRecordings.adjustHoldActionPanelHeight($(this).height(), 'add');
++	}
+     });
+ 
+     // try to obtain URL of series service endpoint from service registry
+Index: matterhorn-admin-ui/src/main/resources/ui/js/oc.recordings.js
+===================================================================
+--- matterhorn-admin-ui/src/main/resources/ui/js/oc.recordings.js	(revisión: 15027)
++++ matterhorn-admin-ui/src/main/resources/ui/js/oc.recordings.js	(copia de trabajo)
+@@ -759,8 +759,15 @@
+     }
+   }
+ 
+-  this.adjustHoldActionPanelHeight = function() {
+-    var height = $('#holdActionUI').contents().find('html').height() + 50;
++  this.adjustHoldActionPanelHeight = function(value, action) {
++      if (!value) value=275;
++      if (!action) action='add';
++
++      if (action=='add') {
++	  var height = $('#holdActionUI').contents().find('html').height() + value;
++      } else if (action=='remove') {
++	  var height = $('#holdActionUI').contents().find('html').height() - value;
++      }
+     $('#holdActionUI').height(height);
+   }
+ 

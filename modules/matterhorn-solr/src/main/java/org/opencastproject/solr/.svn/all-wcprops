@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10381/MH/trunk/modules/matterhorn-solr/src/main/java/org/opencastproject/solr
+END
+WildcardQueryParserPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/10381/MH/trunk/modules/matterhorn-solr/src/main/java/org/opencastproject/solr/WildcardQueryParserPlugin.java
+END
+SolrServerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9435/MH/trunk/modules/matterhorn-solr/src/main/java/org/opencastproject/solr/SolrServerFactory.java
+END
+NonTokenizingFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/10179/MH/trunk/modules/matterhorn-solr/src/main/java/org/opencastproject/solr/NonTokenizingFactory.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12087/MH/trunk/docs/scripts/3rd_party/ffmpeg_libs/theora
+END
+win32-compile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10076/MH/trunk/docs/scripts/3rd_party/ffmpeg_libs/theora/win32-compile
+END
+ports-compile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11043/MH/trunk/docs/scripts/3rd_party/ffmpeg_libs/theora/ports-compile
+END
+config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12087/MH/trunk/docs/scripts/3rd_party/ffmpeg_libs/theora/config.txt
+END
+libpng12.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9190/MH/trunk/docs/scripts/3rd_party/ffmpeg_libs/theora/libpng12.pc.in
+END
+linux-compile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10076/MH/trunk/docs/scripts/3rd_party/ffmpeg_libs/theora/linux-compile
+END
+mac-compile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10076/MH/trunk/docs/scripts/3rd_party/ffmpeg_libs/theora/mac-compile
+END

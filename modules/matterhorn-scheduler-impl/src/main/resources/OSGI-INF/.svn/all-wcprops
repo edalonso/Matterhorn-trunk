@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/13900/MH/trunk/modules/matterhorn-scheduler-impl/src/main/resources/OSGI-INF
+END
+scheduler-service-index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/10428/MH/trunk/modules/matterhorn-scheduler-impl/src/main/resources/OSGI-INF/scheduler-service-index.xml
+END
+scheduler-service-rest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/10463/MH/trunk/modules/matterhorn-scheduler-impl/src/main/resources/OSGI-INF/scheduler-service-rest.xml
+END
+scheduler-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/13900/MH/trunk/modules/matterhorn-scheduler-impl/src/main/resources/OSGI-INF/scheduler-service.xml
+END
+scheduler-service-persistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/10428/MH/trunk/modules/matterhorn-scheduler-impl/src/main/resources/OSGI-INF/scheduler-service-persistence.xml
+END

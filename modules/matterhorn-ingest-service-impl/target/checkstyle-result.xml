@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.0">
+<file name="/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/endpoint/UploadJob.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/endpoint/UploadProgressListener.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/endpoint/IngestRestService.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/impl/ProgressInputStream.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/impl/IngestServiceImpl.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/impl/ZipEntryInputStream.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/impl/jmx/IngestStatistics.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/impl/jmx/IngestStatisticsMXBean.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/scanner/InboxScannerService.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/scanner/Ingestor.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/test/java/org/opencastproject/ingest/endpoint/IngestRestServiceTest.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/test/java/org/opencastproject/ingest/impl/QUnitTest.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/test/java/org/opencastproject/ingest/impl/IngestServiceImplTest.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/test/java/org/apache/commons/fileupload/MockHttpServletRequest.java">
+</file>
+</checkstyle>

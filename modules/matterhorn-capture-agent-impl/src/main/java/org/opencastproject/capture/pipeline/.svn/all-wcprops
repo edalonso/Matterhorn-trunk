@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/14219/MH/trunk/modules/matterhorn-capture-agent-impl/src/main/java/org/opencastproject/capture/pipeline
+END
+InvalidDeviceNameException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/9434/MH/trunk/modules/matterhorn-capture-agent-impl/src/main/java/org/opencastproject/capture/pipeline/InvalidDeviceNameException.java
+END
+InvalidCaptureDevicesSpecifiedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/10357/MH/trunk/modules/matterhorn-capture-agent-impl/src/main/java/org/opencastproject/capture/pipeline/InvalidCaptureDevicesSpecifiedException.java
+END
+UnrecognizedDeviceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/9434/MH/trunk/modules/matterhorn-capture-agent-impl/src/main/java/org/opencastproject/capture/pipeline/UnrecognizedDeviceException.java
+END
+GStreamerPipeline.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/14219/MH/trunk/modules/matterhorn-capture-agent-impl/src/main/java/org/opencastproject/capture/pipeline/GStreamerPipeline.java
+END
+UnableToCreateSampleOutputFileException.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/9434/MH/trunk/modules/matterhorn-capture-agent-impl/src/main/java/org/opencastproject/capture/pipeline/UnableToCreateSampleOutputFileException.java
+END
+CannotFindSourceFileOrDeviceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/9434/MH/trunk/modules/matterhorn-capture-agent-impl/src/main/java/org/opencastproject/capture/pipeline/CannotFindSourceFileOrDeviceException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/9434/MH/trunk/modules/matterhorn-capture-agent-impl/src/main/java/org/opencastproject/capture/pipeline/package-info.java
+END
+MonitoringGStreamerPipeline.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/13155/MH/trunk/modules/matterhorn-capture-agent-impl/src/main/java/org/opencastproject/capture/pipeline/MonitoringGStreamerPipeline.java
+END

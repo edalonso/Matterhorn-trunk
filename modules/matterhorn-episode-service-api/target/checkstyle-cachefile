@@ -1,0 +1,17 @@
+#Wed Jul 10 11:12:17 CEST 2013
+/opt/matterhorn/trunk/modules/matterhorn-episode-service-api/src/main/java/org/opencastproject/episode/api/SearchResult.java=1373447354000
+/opt/matterhorn/trunk/modules/matterhorn-episode-service-api/src/main/java/org/opencastproject/episode/api/EpisodeServiceException.java=1373447354000
+/opt/matterhorn/trunk/modules/matterhorn-episode-service-api/src/main/java/org/opencastproject/episode/api/EpisodeService.java=1373447354000
+/opt/matterhorn/trunk/modules/matterhorn-episode-service-api/src/main/java/org/opencastproject/episode/api/UriRewriter.java=1373447354000
+/opt/matterhorn/trunk/modules/matterhorn-episode-service-api/src/main/java/org/opencastproject/episode/api/SearchResultItem.java=1373447354000
+/opt/matterhorn/trunk/modules/matterhorn-episode-service-api/src/main/java/org/opencastproject/episode/api/MediaSegmentPreview.java=1373447354000
+/opt/matterhorn/trunk/modules/matterhorn-episode-service-api/src/main/java/org/opencastproject/episode/api/JaxbMediaSegmentPreview.java=1373447354000
+/opt/matterhorn/trunk/modules/matterhorn-episode-service-api/src/main/java/org/opencastproject/episode/api/JaxbSearchResult.java=1373447354000
+/opt/matterhorn/trunk/modules/matterhorn-episode-service-api/src/main/java/org/opencastproject/episode/api/ArchivedMediaPackageElement.java=1373447354000
+/opt/matterhorn/trunk/modules/matterhorn-episode-service-api/src/main/java/org/opencastproject/episode/api/Version.java=1373447354000
+/opt/matterhorn/trunk/modules/matterhorn-episode-service-api/src/main/java/org/opencastproject/episode/api/EpisodeQuery.java=1373447354000
+/opt/matterhorn/trunk/modules/matterhorn-episode-service-api/src/main/java/org/opencastproject/episode/api/MediaSegment.java=1373447354000
+/opt/matterhorn/trunk/modules/matterhorn-episode-service-api/src/main/java/org/opencastproject/episode/api/HttpMediaPackageElementProvider.java=1373447354000
+/opt/matterhorn/trunk/modules/matterhorn-episode-service-api/src/main/java/org/opencastproject/episode/api/JaxbSearchResultItem.java=1373447354000
+/opt/matterhorn/trunk/modules/matterhorn-episode-service-api/src/main/java/org/opencastproject/episode/api/JaxbMediaSegment.java=1373447354000
+configuration*?=4B6284C02E089303142A25557A030265908B6E18

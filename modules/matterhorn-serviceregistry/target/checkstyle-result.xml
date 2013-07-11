@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.0">
+<file name="/opt/matterhorn/trunk/modules/matterhorn-serviceregistry/src/main/java/org/opencastproject/serviceregistry/command/MaintenanceCommand.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-serviceregistry/src/main/java/org/opencastproject/serviceregistry/impl/endpoint/ServiceRegistryEndpoint.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-serviceregistry/src/main/java/org/opencastproject/serviceregistry/impl/JobPropertyJpaImpl.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-serviceregistry/src/main/java/org/opencastproject/serviceregistry/impl/JobJpaImpl.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-serviceregistry/src/main/java/org/opencastproject/serviceregistry/impl/ServiceRegistrationJpaImpl.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-serviceregistry/src/main/java/org/opencastproject/serviceregistry/impl/ServiceRegistryJpaImpl.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-serviceregistry/src/main/java/org/opencastproject/serviceregistry/impl/jmx/HostsStatisticsMXBean.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-serviceregistry/src/main/java/org/opencastproject/serviceregistry/impl/jmx/JobsStatisticsMXBean.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-serviceregistry/src/main/java/org/opencastproject/serviceregistry/impl/jmx/HostsStatistics.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-serviceregistry/src/main/java/org/opencastproject/serviceregistry/impl/jmx/ServicesStatistics.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-serviceregistry/src/main/java/org/opencastproject/serviceregistry/impl/jmx/JobsStatistics.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-serviceregistry/src/main/java/org/opencastproject/serviceregistry/impl/jmx/ServicesStatisticsMXBean.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-serviceregistry/src/main/java/org/opencastproject/serviceregistry/impl/HostRegistrationJpaImpl.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-serviceregistry/src/test/java/org/opencastproject/serviceregistry/impl/ServiceRegistryJpaImplTest.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-serviceregistry/src/test/java/org/opencastproject/serviceregistry/impl/ServiceRegistrationTest.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-serviceregistry/src/test/java/org/opencastproject/serviceregistry/impl/JobTest.java">
+</file>
+</checkstyle>

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/14516/MH/trunk/docs/scripts/ddl
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11006/MH/trunk/docs/scripts/ddl/README.txt
+END
+postgres84.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14516/MH/trunk/docs/scripts/ddl/postgres84.sql
+END
+mysql5.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14516/MH/trunk/docs/scripts/ddl/mysql5.sql
+END

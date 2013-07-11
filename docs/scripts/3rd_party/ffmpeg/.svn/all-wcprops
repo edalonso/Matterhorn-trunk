@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12246/MH/trunk/docs/scripts/3rd_party/ffmpeg
+END
+ports-compile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11277/MH/trunk/docs/scripts/3rd_party/ffmpeg/ports-compile
+END
+config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12087/MH/trunk/docs/scripts/3rd_party/ffmpeg/config.txt
+END
+linux-compile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12246/MH/trunk/docs/scripts/3rd_party/ffmpeg/linux-compile
+END
+mac-compile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12246/MH/trunk/docs/scripts/3rd_party/ffmpeg/mac-compile
+END
+win32-compile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12246/MH/trunk/docs/scripts/3rd_party/ffmpeg/win32-compile
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14314/MH/trunk/modules/matterhorn-test-harness/src/main/resources/authorization
+END
+workflow-definition-1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/10221/MH/trunk/modules/matterhorn-test-harness/src/main/resources/authorization/workflow-definition-1.xml
+END
+sample-series-1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/14314/MH/trunk/modules/matterhorn-test-harness/src/main/resources/authorization/sample-series-1.xml
+END
+mediapackage-with-series.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/12989/MH/trunk/modules/matterhorn-test-harness/src/main/resources/authorization/mediapackage-with-series.xml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/14544/MH/trunk/modules/matterhorn-serviceregistry/src/test/java/org/opencastproject/serviceregistry/impl
+END
+ServiceRegistryJpaImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/14544/MH/trunk/modules/matterhorn-serviceregistry/src/test/java/org/opencastproject/serviceregistry/impl/ServiceRegistryJpaImplTest.java
+END
+JobTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/14250/MH/trunk/modules/matterhorn-serviceregistry/src/test/java/org/opencastproject/serviceregistry/impl/JobTest.java
+END
+ServiceRegistrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/14544/MH/trunk/modules/matterhorn-serviceregistry/src/test/java/org/opencastproject/serviceregistry/impl/ServiceRegistrationTest.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/13155/MH/trunk/modules/matterhorn-capture-agent-impl/src/main/java/org/opencastproject/capture/endpoint
+END
+CaptureRestService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/12937/MH/trunk/modules/matterhorn-capture-agent-impl/src/main/java/org/opencastproject/capture/endpoint/CaptureRestService.java
+END
+ConfidenceMonitorRestService.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/13155/MH/trunk/modules/matterhorn-capture-agent-impl/src/main/java/org/opencastproject/capture/endpoint/ConfidenceMonitorRestService.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-capture-agent-impl/src/main/java/org/opencastproject/capture/endpoint/package-info.java
+END
+AgentDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-capture-agent-impl/src/main/java/org/opencastproject/capture/endpoint/AgentDevice.java
+END
+ScheduledEventList.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-capture-agent-impl/src/main/java/org/opencastproject/capture/endpoint/ScheduledEventList.java
+END
+StateRestService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/12937/MH/trunk/modules/matterhorn-capture-agent-impl/src/main/java/org/opencastproject/capture/endpoint/StateRestService.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/14855/MH/trunk/modules/matterhorn-working-file-repository-service-impl/src/main/java/org/opencastproject/workingfilerepository/impl
+END
+WorkingFileRepositoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/14855/MH/trunk/modules/matterhorn-working-file-repository-service-impl/src/main/java/org/opencastproject/workingfilerepository/impl/WorkingFileRepositoryImpl.java
+END
+WorkingFileRepositoryRestEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/13526/MH/trunk/modules/matterhorn-working-file-repository-service-impl/src/main/java/org/opencastproject/workingfilerepository/impl/WorkingFileRepositoryRestEndpoint.java
+END

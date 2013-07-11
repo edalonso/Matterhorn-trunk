@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/12835/MH/trunk/modules/matterhorn-capture-agent-impl/src/test/java/org/opencastproject/capture/pipeline/bins/producers
+END
+ProducerFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/12835/MH/trunk/modules/matterhorn-capture-agent-impl/src/test/java/org/opencastproject/capture/pipeline/bins/producers/ProducerFactoryTest.java
+END
+CustomAudioProducerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/10076/MH/trunk/modules/matterhorn-capture-agent-impl/src/test/java/org/opencastproject/capture/pipeline/bins/producers/CustomAudioProducerTest.java
+END
+CustomVideoProducerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/10076/MH/trunk/modules/matterhorn-capture-agent-impl/src/test/java/org/opencastproject/capture/pipeline/bins/producers/CustomVideoProducerTest.java
+END

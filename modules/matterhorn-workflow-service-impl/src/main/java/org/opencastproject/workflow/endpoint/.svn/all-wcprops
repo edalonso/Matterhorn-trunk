@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/14724/MH/trunk/modules/matterhorn-workflow-service-impl/src/main/java/org/opencastproject/workflow/endpoint
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-workflow-service-impl/src/main/java/org/opencastproject/workflow/endpoint/package-info.java
+END
+WorkflowRestService.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/14724/MH/trunk/modules/matterhorn-workflow-service-impl/src/main/java/org/opencastproject/workflow/endpoint/WorkflowRestService.java
+END

@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/14561/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler
+END
+ReviewWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/9597/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/ReviewWorkflowOperationHandler.java
+END
+CaptionUploadWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/12565/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/CaptionUploadWorkflowOperationHandler.java
+END
+ComposeWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/13639/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/ComposeWorkflowOperationHandler.java
+END
+DownloadDVDWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/9597/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/DownloadDVDWorkflowOperationHandler.java
+END
+ErrorLoggingOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/9597/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/ErrorLoggingOperationHandler.java
+END
+CLIWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/10372/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/CLIWorkflowOperationHandler.java
+END
+FailingWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/12030/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/FailingWorkflowOperationHandler.java
+END
+SearchIndexRemoveWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/11004/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/SearchIndexRemoveWorkflowOperationHandler.java
+END
+ErrorResolutionWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/12030/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/ErrorResolutionWorkflowOperationHandler.java
+END
+DistributeWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/14461/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/DistributeWorkflowOperationHandler.java
+END
+RetractYouTubeWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/14250/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/RetractYouTubeWorkflowOperationHandler.java
+END
+PublishYouTubeWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/14250/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/PublishYouTubeWorkflowOperationHandler.java
+END
+CaptionEmbedderWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/9597/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/CaptionEmbedderWorkflowOperationHandler.java
+END
+EmailWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/12142/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/EmailWorkflowOperationHandler.java
+END
+ScheduleWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/10076/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/ScheduleWorkflowOperationHandler.java
+END
+ZipWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/14125/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/ZipWorkflowOperationHandler.java
+END
+CaptureWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/9597/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/CaptureWorkflowOperationHandler.java
+END
+InspectWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/14549/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/InspectWorkflowOperationHandler.java
+END
+ApplyAclWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/10666/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/ApplyAclWorkflowOperationHandler.java
+END
+AppendWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/12063/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/AppendWorkflowOperationHandler.java
+END
+SpeechRecognitionWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/12082/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/SpeechRecognitionWorkflowOperationHandler.java
+END
+ResumableWorkflowOperationHandlerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/10158/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/ResumableWorkflowOperationHandlerBase.java
+END
+RetractEngageWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/14461/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/RetractEngageWorkflowOperationHandler.java
+END
+TagWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/13423/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/TagWorkflowOperationHandler.java
+END
+TrimWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/13479/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/TrimWorkflowOperationHandler.java
+END
+PublishEngageWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/14561/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/PublishEngageWorkflowOperationHandler.java
+END
+VideoSegmenterWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/10721/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/VideoSegmenterWorkflowOperationHandler.java
+END
+IngestDownloadWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/14496/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/IngestDownloadWorkflowOperationHandler.java
+END
+ArchiveWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/14250/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/ArchiveWorkflowOperationHandler.java
+END
+ImageWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/12985/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/ImageWorkflowOperationHandler.java
+END
+PrepareAVWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/13899/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/PrepareAVWorkflowOperationHandler.java
+END
+CoverArtWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/12030/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/CoverArtWorkflowOperationHandler.java
+END
+SegmentPreviewsWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/10178/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/SegmentPreviewsWorkflowOperationHandler.java
+END
+CleanupWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/14482/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/CleanupWorkflowOperationHandler.java
+END
+TextAnalysisWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/14523/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/TextAnalysisWorkflowOperationHandler.java
+END
+IngestWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/9597/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/IngestWorkflowOperationHandler.java
+END
+RepublishWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/13843/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/RepublishWorkflowOperationHandler.java
+END
+WatermarkWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/10966/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/WatermarkWorkflowOperationHandler.java
+END
+EngagePublicationChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/14461/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/workflow/handler/EngagePublicationChannel.java
+END

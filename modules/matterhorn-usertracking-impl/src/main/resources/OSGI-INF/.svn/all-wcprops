@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/13334/MH/trunk/modules/matterhorn-usertracking-impl/src/main/resources/OSGI-INF
+END
+usertracking-service-rest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/13334/MH/trunk/modules/matterhorn-usertracking-impl/src/main/resources/OSGI-INF/usertracking-service-rest.xml
+END
+usertracking-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/13334/MH/trunk/modules/matterhorn-usertracking-impl/src/main/resources/OSGI-INF/usertracking-service.xml
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/13530/MH/trunk/modules/matterhorn-oaipmh/src/test/java/org/opencastproject/oaipmh/server
+END
+UniversalNamespaceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/12104/MH/trunk/modules/matterhorn-oaipmh/src/test/java/org/opencastproject/oaipmh/server/UniversalNamespaceResolver.java
+END
+OaiPmhRepositoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/13530/MH/trunk/modules/matterhorn-oaipmh/src/test/java/org/opencastproject/oaipmh/server/OaiPmhRepositoryTest.java
+END

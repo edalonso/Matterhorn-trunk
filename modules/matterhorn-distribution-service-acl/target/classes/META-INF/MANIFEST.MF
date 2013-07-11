@@ -1,0 +1,36 @@
+Manifest-Version: 1.0
+Service-Component: OSGI-INF/distribution-service-acl.xml
+Export-Package: org.opencastproject.distribution.acl;uses:="org.openca
+ stproject.util,org.opencastproject.mediapackage,org.osgi.service.comp
+ onent,org.slf4j,org.opencastproject.workspace.api,org.opencastproject
+ .distribution.api,org.opencastproject.mediapackage.identifier,org.ope
+ ncastproject.job.api,org.opencastproject.serviceregistry.api,org.osgi
+ .framework,org.apache.commons.io,org.opencastproject.security.api,jav
+ ax.xml.bind.annotation";version="1.5.0.SNAPSHOT"
+Built-By: eduardo
+Bundle-Category: opencastproject
+Tool: Bnd-0.0.357
+Bundle-Name: matterhorn-distribution-service-acl
+Created-By: Apache Maven Bundle Plugin
+Bundle-Vendor: The Opencast Project
+Build-Jdk: 1.6.0_27
+Bundle-Version: 1.5.0.SNAPSHOT
+Bnd-LastModified: 1373448044224
+Bundle-ManifestVersion: 2
+Bundle-Description: The Opencast Project's Matterhorn software is a me
+ dia capture, processing, and distribution system
+Bundle-License: http://www.osedu.org/licenses/ECL-2.0/ecl2.txt
+Import-Package: javax.ws.rs;version="1.1",javax.ws.rs.core;version="1.
+ 1",javax.xml.bind.annotation,org.apache.commons.io;version="2.1",org.
+ opencastproject.distribution.acl;version="1.5",org.opencastproject.di
+ stribution.api;version="1.5",org.opencastproject.job.api;version="1.5
+ ",org.opencastproject.mediapackage;version="1.5",org.opencastproject.
+ mediapackage.identifier;version="1.5",org.opencastproject.rest;versio
+ n="1.5",org.opencastproject.security.api;version="1.5",org.opencastpr
+ oject.serviceregistry.api;version="1.5",org.opencastproject.util;vers
+ ion="1.5",org.opencastproject.util.doc.rest;version="1.5",org.opencas
+ tproject.workspace.api;version="1.5",org.osgi.framework;version="1.5"
+ ,org.osgi.service.component;version="1.1",org.slf4j;version="1.5"
+Bundle-SymbolicName: matterhorn-distribution-service-acl
+Bundle-DocURL: http://opencastproject.org/
+

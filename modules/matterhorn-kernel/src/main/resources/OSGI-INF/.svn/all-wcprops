@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14007/MH/trunk/modules/matterhorn-kernel/src/main/resources/OSGI-INF
+END
+security-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10098/MH/trunk/modules/matterhorn-kernel/src/main/resources/OSGI-INF/security-service.xml
+END
+cleansessions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/11162/MH/trunk/modules/matterhorn-kernel/src/main/resources/OSGI-INF/cleansessions.xml
+END
+user-and-role-directory-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/13283/MH/trunk/modules/matterhorn-kernel/src/main/resources/OSGI-INF/user-and-role-directory-service.xml
+END
+rest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9561/MH/trunk/modules/matterhorn-kernel/src/main/resources/OSGI-INF/rest.xml
+END
+current-job-filter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/12105/MH/trunk/modules/matterhorn-kernel/src/main/resources/OSGI-INF/current-job-filter.xml
+END
+pingback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9561/MH/trunk/modules/matterhorn-kernel/src/main/resources/OSGI-INF/pingback.xml
+END
+smtp-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/12142/MH/trunk/modules/matterhorn-kernel/src/main/resources/OSGI-INF/smtp-service.xml
+END
+https-filter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/13723/MH/trunk/modules/matterhorn-kernel/src/main/resources/OSGI-INF/https-filter.xml
+END
+organization-persistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/13300/MH/trunk/modules/matterhorn-kernel/src/main/resources/OSGI-INF/organization-persistence.xml
+END
+organization-filter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/11162/MH/trunk/modules/matterhorn-kernel/src/main/resources/OSGI-INF/organization-filter.xml
+END
+remote-user-and-role-filter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/13300/MH/trunk/modules/matterhorn-kernel/src/main/resources/OSGI-INF/remote-user-and-role-filter.xml
+END
+jsonp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11162/MH/trunk/modules/matterhorn-kernel/src/main/resources/OSGI-INF/jsonp.xml
+END
+http-client.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/13860/MH/trunk/modules/matterhorn-kernel/src/main/resources/OSGI-INF/http-client.xml
+END
+http-client-factory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/11294/MH/trunk/modules/matterhorn-kernel/src/main/resources/OSGI-INF/http-client-factory.xml
+END
+security-config-scanner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10318/MH/trunk/modules/matterhorn-kernel/src/main/resources/OSGI-INF/security-config-scanner.xml
+END
+http-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10098/MH/trunk/modules/matterhorn-kernel/src/main/resources/OSGI-INF/http-context.xml
+END
+organization-directory-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/14007/MH/trunk/modules/matterhorn-kernel/src/main/resources/OSGI-INF/organization-directory-service.xml
+END

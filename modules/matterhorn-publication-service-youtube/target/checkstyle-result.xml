@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.0">
+<file name="/opt/matterhorn/trunk/modules/matterhorn-publication-service-youtube/src/main/java/org/opencastproject/deliver/youtube/YouTubeConfiguration.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-publication-service-youtube/src/main/java/org/opencastproject/publication/youtube/endpoint/YouTubePublicationRestService.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-publication-service-youtube/src/main/java/org/opencastproject/publication/youtube/YouTubePublicationServiceImpl.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-publication-service-youtube/src/main/java/org/opencastproject/publication/youtube/YouTubePublicationContextStrategy.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-publication-service-youtube/src/test/java/org/opencastproject/publication/youtube/YouTubePublicationServiceTest.java">
+</file>
+</checkstyle>

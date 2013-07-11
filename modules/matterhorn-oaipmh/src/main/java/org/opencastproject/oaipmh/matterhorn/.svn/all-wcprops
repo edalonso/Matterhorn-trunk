@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/13969/MH/trunk/modules/matterhorn-oaipmh/src/main/java/org/opencastproject/oaipmh/matterhorn
+END
+MatterhornMetadataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/13969/MH/trunk/modules/matterhorn-oaipmh/src/main/java/org/opencastproject/oaipmh/matterhorn/MatterhornMetadataProvider.java
+END
+MatterhornRecordHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/11102/MH/trunk/modules/matterhorn-oaipmh/src/main/java/org/opencastproject/oaipmh/matterhorn/MatterhornRecordHandler.java
+END

@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Export-Package: org.opencastproject.ingest.api;uses:="org.opencastproj
+ ect.mediapackage.identifier,org.opencastproject.workflow.api,org.open
+ castproject.util,org.opencastproject.mediapackage,org.opencastproject
+ .security.api";version="1.5.0.SNAPSHOT"
+Built-By: eduardo
+Tool: Bnd-0.0.357
+Bundle-Category: opencastproject
+Bundle-Name: matterhorn-ingest-service-api
+Created-By: Apache Maven Bundle Plugin
+Bundle-Vendor: The Opencast Project
+Build-Jdk: 1.6.0_27
+Bundle-Version: 1.5.0.SNAPSHOT
+Bnd-LastModified: 1373447534713
+Bundle-ManifestVersion: 2
+Bundle-License: http://www.osedu.org/licenses/ECL-2.0/ecl2.txt
+Bundle-Description: The Opencast Project's Matterhorn software is a me
+ dia capture, processing, and distribution system
+Import-Package: org.opencastproject.ingest.api;version="1.5",org.openc
+ astproject.mediapackage;version="1.5",org.opencastproject.mediapackag
+ e.identifier;version="1.5",org.opencastproject.security.api;version="
+ 1.5",org.opencastproject.util;version="1.5",org.opencastproject.workf
+ low.api;version="1.5"
+Bundle-SymbolicName: matterhorn-ingest-service-api
+Bundle-DocURL: http://opencastproject.org/
+

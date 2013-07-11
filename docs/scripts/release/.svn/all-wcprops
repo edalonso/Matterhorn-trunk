@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/14149/MH/trunk/docs/scripts/release
+END
+tag.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14149/MH/trunk/docs/scripts/release/tag.sh
+END
+branch.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14149/MH/trunk/docs/scripts/release/branch.sh
+END
+release_team.ipy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10497/MH/trunk/docs/scripts/release/release_team.ipy
+END

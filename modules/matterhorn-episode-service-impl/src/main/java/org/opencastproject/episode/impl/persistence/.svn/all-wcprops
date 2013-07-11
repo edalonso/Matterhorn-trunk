@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/14349/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/persistence
+END
+Episode.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/13004/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/persistence/Episode.java
+END
+EpisodeServiceDatabaseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/12573/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/persistence/EpisodeServiceDatabaseException.java
+END
+EpisodeServiceDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/14250/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/persistence/EpisodeServiceDatabase.java
+END
+Asset.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/12573/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/persistence/Asset.java
+END
+EpisodeDto.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/13824/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/persistence/EpisodeDto.java
+END
+OsgiEpisodeServiceDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/13679/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/persistence/OsgiEpisodeServiceDatabase.java
+END
+AbstractEpisodeServiceDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/14250/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/persistence/AbstractEpisodeServiceDatabase.java
+END
+VersionClaimDto.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/13824/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/persistence/VersionClaimDto.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/12573/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/persistence/package-info.java
+END
+AssetDto.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/14349/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/persistence/AssetDto.java
+END

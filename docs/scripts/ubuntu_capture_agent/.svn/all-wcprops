@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14958/MH/trunk/docs/scripts/ubuntu_capture_agent
+END
+setup_user.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/13635/MH/trunk/docs/scripts/ubuntu_capture_agent/setup_user.sh
+END
+setup_devices.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/13735/MH/trunk/docs/scripts/ubuntu_capture_agent/setup_devices.sh
+END
+setup_dependencies.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14162/MH/trunk/docs/scripts/ubuntu_capture_agent/setup_dependencies.sh
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14741/MH/trunk/docs/scripts/ubuntu_capture_agent/install.sh
+END
+functions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10076/MH/trunk/docs/scripts/ubuntu_capture_agent/functions.sh
+END
+watch_felix.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/8028/MH/trunk/docs/scripts/ubuntu_capture_agent/watch_felix.py
+END
+install_dependencies.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/13050/MH/trunk/docs/scripts/ubuntu_capture_agent/install_dependencies.sh
+END
+run_performance.ipy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9585/MH/trunk/docs/scripts/ubuntu_capture_agent/run_performance.ipy
+END
+setup_performance_testing.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7372/MH/trunk/docs/scripts/ubuntu_capture_agent/setup_performance_testing.sh
+END
+setup_source.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12182/MH/trunk/docs/scripts/ubuntu_capture_agent/setup_source.sh
+END
+Ubuntu-10-10.packages
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11935/MH/trunk/docs/scripts/ubuntu_capture_agent/Ubuntu-10-10.packages
+END
+setup_boot.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12234/MH/trunk/docs/scripts/ubuntu_capture_agent/setup_boot.sh
+END
+Ubuntu-11-10.packages
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11935/MH/trunk/docs/scripts/ubuntu_capture_agent/Ubuntu-11-10.packages
+END
+setup_directory.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12234/MH/trunk/docs/scripts/ubuntu_capture_agent/setup_directory.sh
+END
+setup_environment.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14958/MH/trunk/docs/scripts/ubuntu_capture_agent/setup_environment.sh
+END
+Ubuntu-12-10.packages
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14162/MH/trunk/docs/scripts/ubuntu_capture_agent/Ubuntu-12-10.packages
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12838/MH/trunk/docs/scripts/ubuntu_capture_agent/README
+END
+Ubuntu-11-04.packages
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11935/MH/trunk/docs/scripts/ubuntu_capture_agent/Ubuntu-11-04.packages
+END
+Ubuntu-12-04.packages
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/13637/MH/trunk/docs/scripts/ubuntu_capture_agent/Ubuntu-12-04.packages
+END
+cleanup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12838/MH/trunk/docs/scripts/ubuntu_capture_agent/cleanup.sh
+END
+default.packages
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14162/MH/trunk/docs/scripts/ubuntu_capture_agent/default.packages
+END
+display_performance_testing_results.ipy
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7854/MH/trunk/docs/scripts/ubuntu_capture_agent/display_performance_testing_results.ipy
+END

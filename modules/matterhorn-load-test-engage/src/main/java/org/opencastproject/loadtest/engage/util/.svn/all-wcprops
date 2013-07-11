@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/11738/MH/trunk/modules/matterhorn-load-test-engage/src/main/java/org/opencastproject/loadtest/engage/util
+END
+TrustedHttpClientException.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/11738/MH/trunk/modules/matterhorn-load-test-engage/src/main/java/org/opencastproject/loadtest/engage/util/TrustedHttpClientException.java
+END
+TrustedHttpClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/11738/MH/trunk/modules/matterhorn-load-test-engage/src/main/java/org/opencastproject/loadtest/engage/util/TrustedHttpClient.java
+END

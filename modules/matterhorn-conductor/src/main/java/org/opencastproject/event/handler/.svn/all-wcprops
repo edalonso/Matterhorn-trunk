@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/14467/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/event/handler
+END
+WorkflowPermissionsUpdatedEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/14467/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/event/handler/WorkflowPermissionsUpdatedEventHandler.java
+END
+EpisodesPermissionsUpdatedEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/14467/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/event/handler/EpisodesPermissionsUpdatedEventHandler.java
+END
+SeriesUpdatedEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/14461/MH/trunk/modules/matterhorn-conductor/src/main/java/org/opencastproject/event/handler/SeriesUpdatedEventHandler.java
+END

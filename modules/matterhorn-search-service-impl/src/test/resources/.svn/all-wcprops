@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-search-service-impl/src/test/resources
+END
+series-dublincore.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10887/MH/trunk/modules/matterhorn-search-service-impl/src/test/resources/series-dublincore.xml
+END
+feeds.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8409/MH/trunk/modules/matterhorn-search-service-impl/src/test/resources/feeds.properties
+END
+dublincore.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10410/MH/trunk/modules/matterhorn-search-service-impl/src/test/resources/dublincore.xml
+END
+manifest-full.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-search-service-impl/src/test/resources/manifest-full.xml
+END
+manifest-simple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-search-service-impl/src/test/resources/manifest-simple.xml
+END

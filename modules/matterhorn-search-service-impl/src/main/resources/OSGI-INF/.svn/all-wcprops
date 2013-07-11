@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/13520/MH/trunk/modules/matterhorn-search-service-impl/src/main/resources/OSGI-INF
+END
+feed-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/13520/MH/trunk/modules/matterhorn-search-service-impl/src/main/resources/OSGI-INF/feed-service.xml
+END
+search-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/13222/MH/trunk/modules/matterhorn-search-service-impl/src/main/resources/OSGI-INF/search-service.xml
+END
+search-service-persistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/12046/MH/trunk/modules/matterhorn-search-service-impl/src/main/resources/OSGI-INF/search-service-persistence.xml
+END
+search-service-rest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/13222/MH/trunk/modules/matterhorn-search-service-impl/src/main/resources/OSGI-INF/search-service-rest.xml
+END

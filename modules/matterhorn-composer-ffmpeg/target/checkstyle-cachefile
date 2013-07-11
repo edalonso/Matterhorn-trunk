@@ -1,0 +1,24 @@
+#Wed Jul 10 11:21:56 CEST 2013
+/opt/matterhorn/trunk/modules/matterhorn-composer-ffmpeg/src/main/java/org/opencastproject/composer/impl/ComposerServiceImpl.java=1373447171000
+/opt/matterhorn/trunk/modules/matterhorn-composer-ffmpeg/src/main/java/org/opencastproject/composer/impl/episode/XmlRpcJob.java=1373447171000
+/opt/matterhorn/trunk/modules/matterhorn-composer-ffmpeg/src/main/java/org/opencastproject/composer/impl/episode/EpisodeSettings.java=1373447171000
+/opt/matterhorn/trunk/modules/matterhorn-composer-ffmpeg/src/main/java/org/opencastproject/composer/impl/AbstractEncoderEngine.java=1373447171000
+/opt/matterhorn/trunk/modules/matterhorn-composer-ffmpeg/src/main/java/org/opencastproject/composer/impl/AbstractCmdlineEncoderEngine.java=1373447171000
+/opt/matterhorn/trunk/modules/matterhorn-composer-ffmpeg/src/main/java/org/opencastproject/composer/impl/CmdlineEncoderListener.java=1373447171000
+/opt/matterhorn/trunk/modules/matterhorn-composer-ffmpeg/src/test/java/org/opencastproject/composer/impl/endpoint/ComposerRestServiceTest.java=1373447168000
+/opt/matterhorn/trunk/modules/matterhorn-composer-ffmpeg/src/test/java/org/opencastproject/composer/impl/EpisodeEncoderEngineTest.java=1373447169000
+/opt/matterhorn/trunk/modules/matterhorn-composer-ffmpeg/src/main/java/org/opencastproject/composer/impl/episode/XmlRpcEngineController.java=1373447171000
+/opt/matterhorn/trunk/modules/matterhorn-composer-ffmpeg/src/main/java/org/opencastproject/composer/impl/AbstractCmdlineEmbedderEngine.java=1373447171000
+/opt/matterhorn/trunk/modules/matterhorn-composer-ffmpeg/src/main/java/org/opencastproject/composer/impl/EmbedderEngineFactoryImpl.java=1373447171000
+configuration*?=56FC9F7C69C2CCE5C98C88EAB0BC9EB27D69DA50
+/opt/matterhorn/trunk/modules/matterhorn-composer-ffmpeg/src/main/java/org/opencastproject/composer/impl/ffmpeg/FFmpegEncoderEngine.java=1373447171000
+/opt/matterhorn/trunk/modules/matterhorn-composer-ffmpeg/src/test/java/org/opencastproject/composer/impl/ComposerServiceTest.java=1373447169000
+/opt/matterhorn/trunk/modules/matterhorn-composer-ffmpeg/src/main/java/org/opencastproject/composer/impl/endpoint/ComposerRestService.java=1373447171000
+/opt/matterhorn/trunk/modules/matterhorn-composer-ffmpeg/src/main/java/org/opencastproject/composer/impl/episode/EpisodeEncoderEngine.java=1373447171000
+/opt/matterhorn/trunk/modules/matterhorn-composer-ffmpeg/src/test/java/org/opencastproject/composer/impl/ImageConversionTest.java=1373447169000
+/opt/matterhorn/trunk/modules/matterhorn-composer-ffmpeg/src/test/java/org/opencastproject/composer/impl/TrimmingTest.java=1373447169000
+/opt/matterhorn/trunk/modules/matterhorn-composer-ffmpeg/src/main/java/org/opencastproject/composer/impl/EncodingProfileScanner.java=1373447171000
+/opt/matterhorn/trunk/modules/matterhorn-composer-ffmpeg/src/main/java/org/opencastproject/composer/impl/EncoderEngineFactoryImpl.java=1373447171000
+/opt/matterhorn/trunk/modules/matterhorn-composer-ffmpeg/src/test/java/org/opencastproject/composer/impl/EncodingProfileTest.java=1373447169000
+/opt/matterhorn/trunk/modules/matterhorn-composer-ffmpeg/src/test/java/org/opencastproject/composer/impl/EmbedderEngineTest.java=1373447169000
+/opt/matterhorn/trunk/modules/matterhorn-composer-ffmpeg/src/main/java/org/opencastproject/composer/impl/qtembedder/QTSbtlEmbedderEngine.java=1373447171000

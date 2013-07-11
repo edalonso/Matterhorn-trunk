@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/9554/MH/trunk/modules/matterhorn-videosegmenter-api/src/main/java/org/opencastproject/videosegmenter/api
+END
+VideoSegmenterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/9108/MH/trunk/modules/matterhorn-videosegmenter-api/src/main/java/org/opencastproject/videosegmenter/api/VideoSegmenterException.java
+END
+VideoSegmenterService.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/9554/MH/trunk/modules/matterhorn-videosegmenter-api/src/main/java/org/opencastproject/videosegmenter/api/VideoSegmenterService.java
+END

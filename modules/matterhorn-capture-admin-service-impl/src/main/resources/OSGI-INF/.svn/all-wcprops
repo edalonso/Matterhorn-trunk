@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10746/MH/trunk/modules/matterhorn-capture-admin-service-impl/src/main/resources/OSGI-INF
+END
+capture-admin-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/10746/MH/trunk/modules/matterhorn-capture-admin-service-impl/src/main/resources/OSGI-INF/capture-admin-service.xml
+END
+capture-admin-service-rest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/9585/MH/trunk/modules/matterhorn-capture-admin-service-impl/src/main/resources/OSGI-INF/capture-admin-service-rest.xml
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/14410/MH/trunk/docs/upgrade/1.3_to_1.4
+END
+mysql5.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14409/MH/trunk/docs/upgrade/1.3_to_1.4/mysql5.sql
+END
+postgres84.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14410/MH/trunk/docs/upgrade/1.3_to_1.4/postgres84.sql
+END

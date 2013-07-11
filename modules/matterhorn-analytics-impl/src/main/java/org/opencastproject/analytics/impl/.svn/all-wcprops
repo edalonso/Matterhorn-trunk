@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/13718/MH/trunk/modules/matterhorn-analytics-impl/src/main/java/org/opencastproject/analytics/impl
+END
+AnalyticsServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/13718/MH/trunk/modules/matterhorn-analytics-impl/src/main/java/org/opencastproject/analytics/impl/AnalyticsServiceImpl.java
+END
+ViewCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/12682/MH/trunk/modules/matterhorn-analytics-impl/src/main/java/org/opencastproject/analytics/impl/ViewCollection.java
+END
+UserActionCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/12682/MH/trunk/modules/matterhorn-analytics-impl/src/main/java/org/opencastproject/analytics/impl/UserActionCollection.java
+END
+ViewItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/12682/MH/trunk/modules/matterhorn-analytics-impl/src/main/java/org/opencastproject/analytics/impl/ViewItem.java
+END

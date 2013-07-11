@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14314/MH/trunk/modules/matterhorn-gstreamer-service-impl/src/test/resources
+END
+with.gstreamer.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/12081/MH/trunk/modules/matterhorn-gstreamer-service-impl/src/test/resources/with.gstreamer.properties
+END
+audio_1.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/12081/MH/trunk/modules/matterhorn-gstreamer-service-impl/src/test/resources/audio_1.mp3
+END
+audio_2.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/12081/MH/trunk/modules/matterhorn-gstreamer-service-impl/src/test/resources/audio_2.mp3
+END
+with.complicated.gstreamer.properties
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/12081/MH/trunk/modules/matterhorn-gstreamer-service-impl/src/test/resources/with.complicated.gstreamer.properties
+END
+with.bad.gstreamer.properties
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/12081/MH/trunk/modules/matterhorn-gstreamer-service-impl/src/test/resources/with.bad.gstreamer.properties
+END
+av.mov
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14314/MH/trunk/modules/matterhorn-gstreamer-service-impl/src/test/resources/av.mov
+END
+without.gstreamer.properties
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/12081/MH/trunk/modules/matterhorn-gstreamer-service-impl/src/test/resources/without.gstreamer.properties
+END
+camera.mpg
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/12081/MH/trunk/modules/matterhorn-gstreamer-service-impl/src/test/resources/camera.mpg
+END
+compose_encode_mediapackage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-gstreamer-service-impl/src/test/resources/compose_encode_mediapackage.xml
+END

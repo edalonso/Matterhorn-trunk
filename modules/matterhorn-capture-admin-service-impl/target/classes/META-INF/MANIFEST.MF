@@ -1,0 +1,49 @@
+Manifest-Version: 1.0
+Service-Component: OSGI-INF/capture-admin-service.xml,OSGI-INF/capture
+ -admin-service-rest.xml
+Export-Package: org.opencastproject.capture.admin.impl;uses:="org.open
+ castproject.capture.admin.api,javax.persistence,org.slf4j,org.opencas
+ tproject.workflow.api,org.opencastproject.util,org.osgi.service.compo
+ nent,org.apache.commons.lang,org.osgi.service.cm,javax.persistence.sp
+ i,org.opencastproject.security.api";version="1.5.0.SNAPSHOT",org.open
+ castproject.capture.admin.api;uses:="javax.xml.bind.annotation,javax.
+ xml.bind.annotation.adapters,org.opencastproject.util";version="1.5.0
+ .SNAPSHOT",org.opencastproject.capture.admin.endpoint;uses:="org.open
+ castproject.capture.admin.api,javax.xml.bind.annotation,javax.ws.rs,o
+ rg.opencastproject.util,org.slf4j,org.osgi.service.component,org.apac
+ he.commons.lang,org.opencastproject.util.doc.rest,javax.ws.rs.core,ja
+ vax.servlet.http";version="1.5.0.SNAPSHOT"
+Built-By: eduardo
+Bundle-Category: opencastproject
+Tool: Bnd-0.0.357
+Bundle-Name: matterhorn-capture-admin-service-impl
+Created-By: Apache Maven Bundle Plugin
+JPA-PersistenceUnits: org.opencastproject.capture.admin.impl.CaptureAg
+ entStateServiceImpl
+Bundle-Vendor: The Opencast Project
+Build-Jdk: 1.6.0_27
+Bundle-Version: 1.5.0.SNAPSHOT
+Bnd-LastModified: 1373447527415
+Bundle-ManifestVersion: 2
+Bundle-Description: The Opencast Project's Matterhorn software is a me
+ dia capture, processing, and distribution system
+Bundle-License: http://www.osedu.org/licenses/ECL-2.0/ecl2.txt
+Import-Package: javax.persistence;version="2.0",javax.persistence.spi;
+ resolution:=optional;version="2.0",javax.servlet.http;resolution:=opt
+ ional,javax.ws.rs;resolution:=optional;version="1.1",javax.ws.rs.core
+ ;resolution:=optional;version="1.1",javax.xml.bind.annotation;resolut
+ ion:=optional,javax.xml.bind.annotation.adapters;resolution:=optional
+ ,org.apache.commons.lang;resolution:=optional;version="2.6",org.openc
+ astproject.capture.admin.api;resolution:=optional;version="1.5",org.o
+ pencastproject.capture.admin.endpoint;resolution:=optional;version="1
+ .5",org.opencastproject.capture.admin.impl;resolution:=optional;versi
+ on="1.5",org.opencastproject.security.api;resolution:=optional;versio
+ n="1.5",org.opencastproject.util;resolution:=optional;version="1.5",o
+ rg.opencastproject.util.doc.rest;resolution:=optional;version="1.5",o
+ rg.opencastproject.workflow.api;resolution:=optional;version="1.5",or
+ g.osgi.service.cm;resolution:=optional;version="1.3",org.osgi.service
+ .component;resolution:=optional;version="1.1",org.slf4j;resolution:=o
+ ptional;version="1.5"
+Bundle-SymbolicName: matterhorn-capture-admin-service-impl
+Bundle-DocURL: http://opencastproject.org/
+

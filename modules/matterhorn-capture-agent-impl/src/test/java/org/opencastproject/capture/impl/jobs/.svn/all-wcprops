@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/12081/MH/trunk/modules/matterhorn-capture-agent-impl/src/test/java/org/opencastproject/capture/impl/jobs
+END
+AgentStateJobTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/12081/MH/trunk/modules/matterhorn-capture-agent-impl/src/test/java/org/opencastproject/capture/impl/jobs/AgentStateJobTest.java
+END
+StartCaptureJobTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/10406/MH/trunk/modules/matterhorn-capture-agent-impl/src/test/java/org/opencastproject/capture/impl/jobs/StartCaptureJobTest.java
+END
+CleanCaptureJobTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/12081/MH/trunk/modules/matterhorn-capture-agent-impl/src/test/java/org/opencastproject/capture/impl/jobs/CleanCaptureJobTest.java
+END
+IngestJobTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/10406/MH/trunk/modules/matterhorn-capture-agent-impl/src/test/java/org/opencastproject/capture/impl/jobs/IngestJobTest.java
+END
+SchedulingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/10406/MH/trunk/modules/matterhorn-capture-agent-impl/src/test/java/org/opencastproject/capture/impl/jobs/SchedulingTest.java
+END

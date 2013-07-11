@@ -1,0 +1,50 @@
+Manifest-Version: 1.0
+Service-Component: OSGI-INF/usertracking-service.xml,OSGI-INF/usertrac
+ king-service-rest.xml
+Export-Package: org.opencastproject.usertracking.api;uses:="org.openca
+ stproject.util";version="1.5.0.SNAPSHOT",org.opencastproject.usertrac
+ king.impl;uses:="org.opencastproject.usertracking.api,javax.xml.bind.
+ annotation,javax.persistence,org.slf4j,org.opencastproject.search.api
+ ,org.opencastproject.usertracking.endpoint,org.opencastproject.util,o
+ rg.osgi.service.cm,javax.persistence.spi";version="1.5.0.SNAPSHOT",or
+ g.opencastproject.usertracking.endpoint;uses:="org.opencastproject.us
+ ertracking.api,javax.xml.bind.annotation,javax.ws.rs,org.opencastproj
+ ect.util,org.slf4j,org.osgi.service.component,org.apache.commons.lang
+ ,org.opencastproject.usertracking.impl,org.osgi.framework,org.opencas
+ tproject.util.doc.rest,org.opencastproject.security.api,javax.servlet
+ .http,javax.ws.rs.core";version="1.5.0.SNAPSHOT"
+Built-By: eduardo
+Bundle-Category: opencastproject
+Tool: Bnd-0.0.357
+Bundle-Name: matterhorn-usertracking-impl
+Created-By: Apache Maven Bundle Plugin
+JPA-PersistenceUnits: org.opencastproject.usertracking
+Bundle-Vendor: The Opencast Project
+Build-Jdk: 1.6.0_27
+Bundle-Version: 1.5.0.SNAPSHOT
+Bnd-LastModified: 1373448114172
+Bundle-ManifestVersion: 2
+Bundle-Description: The Opencast Project's Matterhorn software is a me
+ dia capture, processing, and distribution system
+Bundle-License: http://www.osedu.org/licenses/ECL-2.0/ecl2.txt
+Import-Package: javax.persistence;resolution:=optional;version="2.0",j
+ avax.persistence.spi;resolution:=optional;version="2.0",javax.servlet
+ .http;resolution:=optional,javax.ws.rs;resolution:=optional;version="
+ 1.1",javax.ws.rs.core;resolution:=optional;version="1.1",javax.xml.bi
+ nd.annotation;resolution:=optional,org.apache.commons.lang;resolution
+ :=optional;version="2.6",org.opencastproject.metadata.dublincore;vers
+ ion="1.5.0.SNAPSHOT",org.opencastproject.rest;version="1.5.0.SNAPSHOT
+ ",org.opencastproject.search.api;resolution:=optional;version="1.5",o
+ rg.opencastproject.security.api;resolution:=optional;version="1.5",or
+ g.opencastproject.usertracking.api;resolution:=optional;version="1.5"
+ ,org.opencastproject.usertracking.endpoint;resolution:=optional;versi
+ on="1.5",org.opencastproject.usertracking.impl;resolution:=optional;v
+ ersion="1.5",org.opencastproject.util;resolution:=optional;version="1
+ .5",org.opencastproject.util.doc.rest;resolution:=optional;version="1
+ .5",org.osgi.framework;resolution:=optional;version="1.5",org.osgi.se
+ rvice.cm;resolution:=optional;version="1.3",org.osgi.service.componen
+ t;resolution:=optional;version="1.1",org.slf4j;resolution:=optional;v
+ ersion="1.5"
+Bundle-SymbolicName: matterhorn-usertracking-impl
+Bundle-DocURL: http://opencastproject.org/
+

@@ -1,0 +1,9 @@
+#Wed Jul 10 11:11:55 CEST 2013
+/opt/matterhorn/trunk/modules/matterhorn-capture-admin-service-api/src/main/java/org/opencastproject/capture/admin/api/Agent.java=1373447173000
+/opt/matterhorn/trunk/modules/matterhorn-capture-admin-service-api/src/main/java/org/opencastproject/capture/admin/api/Recording.java=1373447173000
+/opt/matterhorn/trunk/modules/matterhorn-capture-admin-service-api/src/main/java/org/opencastproject/capture/admin/api/RecordingState.java=1373447173000
+/opt/matterhorn/trunk/modules/matterhorn-capture-admin-service-api/src/main/java/org/opencastproject/capture/admin/api/RecordingStateUpdate.java=1373447173000
+/opt/matterhorn/trunk/modules/matterhorn-capture-admin-service-api/src/main/java/org/opencastproject/capture/admin/api/AgentState.java=1373447173000
+/opt/matterhorn/trunk/modules/matterhorn-capture-admin-service-api/src/main/java/org/opencastproject/capture/admin/api/AgentStateUpdate.java=1373447173000
+/opt/matterhorn/trunk/modules/matterhorn-capture-admin-service-api/src/main/java/org/opencastproject/capture/admin/api/CaptureAgentStateService.java=1373447173000
+configuration*?=DB7A2E7111752235F37D077DCC2CF124088BC967

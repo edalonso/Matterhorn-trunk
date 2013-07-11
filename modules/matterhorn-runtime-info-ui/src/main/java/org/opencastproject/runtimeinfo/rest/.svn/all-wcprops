@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/13219/MH/trunk/modules/matterhorn-runtime-info-ui/src/main/java/org/opencastproject/runtimeinfo/rest
+END
+Format.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/12081/MH/trunk/modules/matterhorn-runtime-info-ui/src/main/java/org/opencastproject/runtimeinfo/rest/Format.java
+END
+RestEndpointData.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/13219/MH/trunk/modules/matterhorn-runtime-info-ui/src/main/java/org/opencastproject/runtimeinfo/rest/RestEndpointData.java
+END
+RestParamData.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/12971/MH/trunk/modules/matterhorn-runtime-info-ui/src/main/java/org/opencastproject/runtimeinfo/rest/RestParamData.java
+END
+RestFormData.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/10432/MH/trunk/modules/matterhorn-runtime-info-ui/src/main/java/org/opencastproject/runtimeinfo/rest/RestFormData.java
+END
+RestEndpointHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/12081/MH/trunk/modules/matterhorn-runtime-info-ui/src/main/java/org/opencastproject/runtimeinfo/rest/RestEndpointHolder.java
+END
+DocRestData.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/12081/MH/trunk/modules/matterhorn-runtime-info-ui/src/main/java/org/opencastproject/runtimeinfo/rest/DocRestData.java
+END
+RestDocData.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/12081/MH/trunk/modules/matterhorn-runtime-info-ui/src/main/java/org/opencastproject/runtimeinfo/rest/RestDocData.java
+END
+StatusData.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/10432/MH/trunk/modules/matterhorn-runtime-info-ui/src/main/java/org/opencastproject/runtimeinfo/rest/StatusData.java
+END
+RestEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/12081/MH/trunk/modules/matterhorn-runtime-info-ui/src/main/java/org/opencastproject/runtimeinfo/rest/RestEndpoint.java
+END
+Param.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/12081/MH/trunk/modules/matterhorn-runtime-info-ui/src/main/java/org/opencastproject/runtimeinfo/rest/Param.java
+END
+RestFormatData.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/10432/MH/trunk/modules/matterhorn-runtime-info-ui/src/main/java/org/opencastproject/runtimeinfo/rest/RestFormatData.java
+END
+RestTestForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/12081/MH/trunk/modules/matterhorn-runtime-info-ui/src/main/java/org/opencastproject/runtimeinfo/rest/RestTestForm.java
+END
+Status.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/10432/MH/trunk/modules/matterhorn-runtime-info-ui/src/main/java/org/opencastproject/runtimeinfo/rest/Status.java
+END
+RestEndpointHolderData.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/12081/MH/trunk/modules/matterhorn-runtime-info-ui/src/main/java/org/opencastproject/runtimeinfo/rest/RestEndpointHolderData.java
+END

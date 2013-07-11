@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12801/MH/trunk/modules/matterhorn-dublincore/src/test/java/org/opencastproject/metadata/dublincore
+END
+EncodingSchemeUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/10423/MH/trunk/modules/matterhorn-dublincore/src/test/java/org/opencastproject/metadata/dublincore/EncodingSchemeUtilsTest.java
+END
+TestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/10410/MH/trunk/modules/matterhorn-dublincore/src/test/java/org/opencastproject/metadata/dublincore/TestUtil.java
+END
+StaticMetadataServiceDublinCoreImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/12082/MH/trunk/modules/matterhorn-dublincore/src/test/java/org/opencastproject/metadata/dublincore/StaticMetadataServiceDublinCoreImplTest.java
+END
+DublinCoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/12801/MH/trunk/modules/matterhorn-dublincore/src/test/java/org/opencastproject/metadata/dublincore/DublinCoreTest.java
+END

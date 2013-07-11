@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/13374/MH/trunk/modules/matterhorn-admin-ui/src/main/resources/ui/i18n
+END
+agent_status.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/6641/MH/trunk/modules/matterhorn-admin-ui/src/main/resources/ui/i18n/agent_status.properties
+END
+series_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/10502/MH/trunk/modules/matterhorn-admin-ui/src/main/resources/ui/i18n/series_es.properties
+END
+users.properties
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/11592/MH/trunk/modules/matterhorn-admin-ui/src/main/resources/ui/i18n/users.properties
+END
+upload.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10076/MH/trunk/modules/matterhorn-admin-ui/src/main/resources/ui/i18n/upload.properties
+END
+scheduler_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10502/MH/trunk/modules/matterhorn-admin-ui/src/main/resources/ui/i18n/scheduler_es.properties
+END
+recordings_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10502/MH/trunk/modules/matterhorn-admin-ui/src/main/resources/ui/i18n/recordings_es.properties
+END
+scheduler_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/6185/MH/trunk/modules/matterhorn-admin-ui/src/main/resources/ui/i18n/scheduler_de.properties
+END
+schedulerform_complete.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/6641/MH/trunk/modules/matterhorn-admin-ui/src/main/resources/ui/i18n/schedulerform_complete.properties
+END
+series.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10076/MH/trunk/modules/matterhorn-admin-ui/src/main/resources/ui/i18n/series.properties
+END
+upload_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/10502/MH/trunk/modules/matterhorn-admin-ui/src/main/resources/ui/i18n/upload_es.properties
+END
+viewevent.properties
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/6641/MH/trunk/modules/matterhorn-admin-ui/src/main/resources/ui/i18n/viewevent.properties
+END
+scheduler.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/13374/MH/trunk/modules/matterhorn-admin-ui/src/main/resources/ui/i18n/scheduler.properties
+END
+recordings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/8484/MH/trunk/modules/matterhorn-admin-ui/src/main/resources/ui/i18n/recordings.properties
+END

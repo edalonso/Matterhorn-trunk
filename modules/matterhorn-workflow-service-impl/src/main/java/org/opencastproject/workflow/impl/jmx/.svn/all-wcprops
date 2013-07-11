@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/12570/MH/trunk/modules/matterhorn-workflow-service-impl/src/main/java/org/opencastproject/workflow/impl/jmx
+END
+WorkflowsStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/12570/MH/trunk/modules/matterhorn-workflow-service-impl/src/main/java/org/opencastproject/workflow/impl/jmx/WorkflowsStatistics.java
+END
+WorkflowsStatisticsMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/12570/MH/trunk/modules/matterhorn-workflow-service-impl/src/main/java/org/opencastproject/workflow/impl/jmx/WorkflowsStatisticsMXBean.java
+END

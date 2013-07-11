@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Export-Package: org.opencastproject.caption.api;uses:="org.opencastpro
+ ject.job.api,org.opencastproject.mediapackage";version="1.5.0.SNAPSHO
+ T"
+Built-By: eduardo
+Tool: Bnd-0.0.357
+Bundle-Category: opencastproject
+Bundle-Name: matterhorn-caption-api
+Created-By: Apache Maven Bundle Plugin
+Bundle-Vendor: The Opencast Project
+Build-Jdk: 1.6.0_27
+Bundle-Version: 1.5.0.SNAPSHOT
+Bnd-LastModified: 1373447509103
+Bundle-ManifestVersion: 2
+Bundle-License: http://www.osedu.org/licenses/ECL-2.0/ecl2.txt
+Bundle-Description: The Opencast Project's Matterhorn software is a me
+ dia capture, processing, and distribution system
+Import-Package: org.opencastproject.caption.api;version="1.5",org.open
+ castproject.job.api;version="1.5",org.opencastproject.mediapackage;ve
+ rsion="1.5"
+Bundle-SymbolicName: matterhorn-caption-api
+Bundle-DocURL: http://opencastproject.org/
+

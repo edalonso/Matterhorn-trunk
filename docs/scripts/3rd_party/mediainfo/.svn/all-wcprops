@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12367/MH/trunk/docs/scripts/3rd_party/mediainfo
+END
+config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12087/MH/trunk/docs/scripts/3rd_party/mediainfo/config.txt
+END
+linux-compile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11311/MH/trunk/docs/scripts/3rd_party/mediainfo/linux-compile
+END
+mac-compile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10076/MH/trunk/docs/scripts/3rd_party/mediainfo/mac-compile
+END
+win32-compile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10076/MH/trunk/docs/scripts/3rd_party/mediainfo/win32-compile
+END
+Conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11311/MH/trunk/docs/scripts/3rd_party/mediainfo/Conf.h
+END
+ports-compile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10076/MH/trunk/docs/scripts/3rd_party/mediainfo/ports-compile
+END

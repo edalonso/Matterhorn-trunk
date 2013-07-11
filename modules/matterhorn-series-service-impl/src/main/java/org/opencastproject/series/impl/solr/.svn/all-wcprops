@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/14855/MH/trunk/modules/matterhorn-series-service-impl/src/main/java/org/opencastproject/series/impl/solr
+END
+SeriesServiceSolrIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/14855/MH/trunk/modules/matterhorn-series-service-impl/src/main/java/org/opencastproject/series/impl/solr/SeriesServiceSolrIndex.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/10084/MH/trunk/modules/matterhorn-series-service-impl/src/main/java/org/opencastproject/series/impl/solr/package-info.java
+END
+SolrFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/12748/MH/trunk/modules/matterhorn-series-service-impl/src/main/java/org/opencastproject/series/impl/solr/SolrFields.java
+END

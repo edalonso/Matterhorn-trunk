@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/14074/MH/trunk/modules/matterhorn-episode-service-impl/src/main/resources/solr/conf
+END
+synonyms.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/11004/MH/trunk/modules/matterhorn-episode-service-impl/src/main/resources/solr/conf/synonyms.txt
+END
+schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/14074/MH/trunk/modules/matterhorn-episode-service-impl/src/main/resources/solr/conf/schema.xml
+END
+protwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/11004/MH/trunk/modules/matterhorn-episode-service-impl/src/main/resources/solr/conf/protwords.txt
+END
+stopwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/11004/MH/trunk/modules/matterhorn-episode-service-impl/src/main/resources/solr/conf/stopwords.txt
+END
+solrconfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/11146/MH/trunk/modules/matterhorn-episode-service-impl/src/main/resources/solr/conf/solrconfig.xml
+END
+scripts.conf
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/11004/MH/trunk/modules/matterhorn-episode-service-impl/src/main/resources/solr/conf/scripts.conf
+END

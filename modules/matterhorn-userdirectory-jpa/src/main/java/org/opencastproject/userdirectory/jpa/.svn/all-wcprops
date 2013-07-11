@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/13824/MH/trunk/modules/matterhorn-userdirectory-jpa/src/main/java/org/opencastproject/userdirectory/jpa
+END
+JpaUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/13824/MH/trunk/modules/matterhorn-userdirectory-jpa/src/main/java/org/opencastproject/userdirectory/jpa/JpaUser.java
+END
+JpaUserAndRoleProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/12150/MH/trunk/modules/matterhorn-userdirectory-jpa/src/main/java/org/opencastproject/userdirectory/jpa/JpaUserAndRoleProvider.java
+END

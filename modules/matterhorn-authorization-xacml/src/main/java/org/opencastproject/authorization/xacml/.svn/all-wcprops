@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/14480/MH/trunk/modules/matterhorn-authorization-xacml/src/main/java/org/opencastproject/authorization/xacml
+END
+XACMLUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/10201/MH/trunk/modules/matterhorn-authorization-xacml/src/main/java/org/opencastproject/authorization/xacml/XACMLUtils.java
+END
+XACMLAuthorizationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/14480/MH/trunk/modules/matterhorn-authorization-xacml/src/main/java/org/opencastproject/authorization/xacml/XACMLAuthorizationService.java
+END

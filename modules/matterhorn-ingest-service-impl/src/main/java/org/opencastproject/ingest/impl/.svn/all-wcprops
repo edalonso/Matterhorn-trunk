@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/14482/MH/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/impl
+END
+ProgressInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/12570/MH/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/impl/ProgressInputStream.java
+END
+ZipEntryInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/14296/MH/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/impl/ZipEntryInputStream.java
+END
+IngestServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/14482/MH/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/impl/IngestServiceImpl.java
+END

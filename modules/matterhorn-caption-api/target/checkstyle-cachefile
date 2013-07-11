@@ -1,0 +1,9 @@
+#Wed Jul 10 11:11:48 CEST 2013
+/opt/matterhorn/trunk/modules/matterhorn-caption-api/src/main/java/org/opencastproject/caption/api/CaptionService.java=1373447066000
+/opt/matterhorn/trunk/modules/matterhorn-caption-api/src/main/java/org/opencastproject/caption/api/Time.java=1373447066000
+/opt/matterhorn/trunk/modules/matterhorn-caption-api/src/main/java/org/opencastproject/caption/api/Caption.java=1373447066000
+/opt/matterhorn/trunk/modules/matterhorn-caption-api/src/main/java/org/opencastproject/caption/api/CaptionConverterException.java=1373447066000
+/opt/matterhorn/trunk/modules/matterhorn-caption-api/src/main/java/org/opencastproject/caption/api/UnsupportedCaptionFormatException.java=1373447066000
+/opt/matterhorn/trunk/modules/matterhorn-caption-api/src/main/java/org/opencastproject/caption/api/CaptionConverter.java=1373447066000
+/opt/matterhorn/trunk/modules/matterhorn-caption-api/src/main/java/org/opencastproject/caption/api/IllegalTimeFormatException.java=1373447066000
+configuration*?=F1DFD8157FEC55D8C6BA2C15CF6CFD4F32CC388A

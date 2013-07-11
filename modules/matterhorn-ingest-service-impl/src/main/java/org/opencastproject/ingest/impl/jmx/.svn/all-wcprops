@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/12570/MH/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/impl/jmx
+END
+IngestStatisticsMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/12570/MH/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/impl/jmx/IngestStatisticsMXBean.java
+END
+IngestStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/12570/MH/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/impl/jmx/IngestStatistics.java
+END

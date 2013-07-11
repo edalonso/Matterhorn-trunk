@@ -1,0 +1,7 @@
+#Wed Jul 10 11:20:56 CEST 2013
+/opt/matterhorn/trunk/modules/matterhorn-publication-service-youtube/src/test/java/org/opencastproject/publication/youtube/YouTubePublicationServiceTest.java=1373447051000
+/opt/matterhorn/trunk/modules/matterhorn-publication-service-youtube/src/main/java/org/opencastproject/publication/youtube/YouTubePublicationServiceImpl.java=1373447062000
+/opt/matterhorn/trunk/modules/matterhorn-publication-service-youtube/src/main/java/org/opencastproject/publication/youtube/endpoint/YouTubePublicationRestService.java=1373447060000
+/opt/matterhorn/trunk/modules/matterhorn-publication-service-youtube/src/main/java/org/opencastproject/deliver/youtube/YouTubeConfiguration.java=1373447063000
+/opt/matterhorn/trunk/modules/matterhorn-publication-service-youtube/src/main/java/org/opencastproject/publication/youtube/YouTubePublicationContextStrategy.java=1373447062000
+configuration*?=676EBB4359B8B5DA6E2AF5DC0BA5E292A1883C40

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/14894/MH/trunk/etc/workflows
+END
+republish.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/13843/MH/trunk/etc/workflows/republish.xml
+END
+default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12524/MH/trunk/etc/workflows/default.xml
+END
+retract.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/14250/MH/trunk/etc/workflows/retract.xml
+END
+compose-distribute-publish.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14894/MH/trunk/etc/workflows/compose-distribute-publish.xml
+END
+default-error-handler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12524/MH/trunk/etc/workflows/default-error-handler.xml
+END
+email-error-handler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12524/MH/trunk/etc/workflows/email-error-handler.xml
+END

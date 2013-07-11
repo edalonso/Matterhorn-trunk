@@ -1,0 +1,18 @@
+#Wed Jul 10 11:11:37 CEST 2013
+/opt/matterhorn/trunk/modules/matterhorn-dublincore/src/main/java/org/opencastproject/metadata/dublincore/Precision.java=1373447168000
+/opt/matterhorn/trunk/modules/matterhorn-dublincore/src/main/java/org/opencastproject/metadata/dublincore/DublinCoreCatalogList.java=1373447168000
+/opt/matterhorn/trunk/modules/matterhorn-dublincore/src/main/java/org/opencastproject/metadata/dublincore/DublinCoreCatalogImpl.java=1373447168000
+/opt/matterhorn/trunk/modules/matterhorn-dublincore/src/main/java/org/opencastproject/metadata/dublincore/EncodingSchemeUtils.java=1373447168000
+/opt/matterhorn/trunk/modules/matterhorn-dublincore/src/main/java/org/opencastproject/metadata/dublincore/StaticMetadataServiceDublinCoreImpl.java=1373447168000
+/opt/matterhorn/trunk/modules/matterhorn-dublincore/src/main/java/org/opencastproject/metadata/dublincore/DublinCoreCatalog.java=1373447168000
+/opt/matterhorn/trunk/modules/matterhorn-dublincore/src/test/java/org/opencastproject/metadata/dublincore/TestUtil.java=1373447168000
+/opt/matterhorn/trunk/modules/matterhorn-dublincore/src/main/java/org/opencastproject/metadata/dublincore/DublinCoreValue.java=1373447168000
+/opt/matterhorn/trunk/modules/matterhorn-dublincore/src/main/java/org/opencastproject/metadata/dublincore/Temporal.java=1373447168000
+/opt/matterhorn/trunk/modules/matterhorn-dublincore/src/main/java/org/opencastproject/metadata/dublincore/DublinCoreValidator.java=1373447168000
+/opt/matterhorn/trunk/modules/matterhorn-dublincore/src/test/java/org/opencastproject/metadata/dublincore/EncodingSchemeUtilsTest.java=1373447168000
+/opt/matterhorn/trunk/modules/matterhorn-dublincore/src/main/java/org/opencastproject/metadata/dublincore/DublinCore.java=1373447168000
+/opt/matterhorn/trunk/modules/matterhorn-dublincore/src/test/java/org/opencastproject/metadata/dublincore/StaticMetadataServiceDublinCoreImplTest.java=1373447168000
+/opt/matterhorn/trunk/modules/matterhorn-dublincore/src/main/java/org/opencastproject/metadata/dublincore/DCMIPeriod.java=1373447168000
+/opt/matterhorn/trunk/modules/matterhorn-dublincore/src/test/java/org/opencastproject/metadata/dublincore/DublinCoreTest.java=1373447168000
+/opt/matterhorn/trunk/modules/matterhorn-dublincore/src/main/java/org/opencastproject/metadata/dublincore/DublinCoreCatalogService.java=1373447168000
+configuration*?=358B29D29E9ED412CF381660437CA021CE827855

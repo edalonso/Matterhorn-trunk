@@ -1,0 +1,16 @@
+#Wed Jul 10 11:13:59 CEST 2013
+/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/impl/ZipEntryInputStream.java=1373447235000
+/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/impl/jmx/IngestStatistics.java=1373447235000
+/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/test/java/org/opencastproject/ingest/impl/IngestServiceImplTest.java=1373447231000
+/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/test/java/org/opencastproject/ingest/endpoint/IngestRestServiceTest.java=1373447231000
+/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/endpoint/IngestRestService.java=1373447235000
+/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/test/java/org/apache/commons/fileupload/MockHttpServletRequest.java=1373447231000
+/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/impl/IngestServiceImpl.java=1373447235000
+/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/scanner/Ingestor.java=1373447235000
+/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/endpoint/UploadJob.java=1373447235000
+/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/impl/jmx/IngestStatisticsMXBean.java=1373447235000
+/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/impl/ProgressInputStream.java=1373447235000
+/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/test/java/org/opencastproject/ingest/impl/QUnitTest.java=1373447231000
+/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/endpoint/UploadProgressListener.java=1373447235000
+/opt/matterhorn/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/scanner/InboxScannerService.java=1373447235000
+configuration*?=130C2669589C8DF9A0EA3F53247658F139CFA7A7

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12105/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/rest
+END
+StaticResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/10372/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/rest/StaticResource.java
+END
+AbstractJobProducerEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/12105/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/rest/AbstractJobProducerEndpoint.java
+END
+RestConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/11162/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/rest/RestConstants.java
+END

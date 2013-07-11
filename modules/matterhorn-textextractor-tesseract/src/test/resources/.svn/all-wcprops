@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10076/MH/trunk/modules/matterhorn-textextractor-tesseract/src/test/resources
+END
+image.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10076/MH/trunk/modules/matterhorn-textextractor-tesseract/src/test/resources/image.txt
+END
+image.tiff
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10076/MH/trunk/modules/matterhorn-textextractor-tesseract/src/test/resources/image.tiff
+END

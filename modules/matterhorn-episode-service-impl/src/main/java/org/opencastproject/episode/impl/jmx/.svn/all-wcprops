@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/13175/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/jmx
+END
+ElementStoreBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/13175/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/jmx/ElementStoreBean.java
+END
+ElementStoreMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/13175/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/jmx/ElementStoreMXBean.java
+END

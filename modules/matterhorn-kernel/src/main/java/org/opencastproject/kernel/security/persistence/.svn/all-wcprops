@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/13826/MH/trunk/modules/matterhorn-kernel/src/main/java/org/opencastproject/kernel/security/persistence
+END
+OrganizationDatabaseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/13300/MH/trunk/modules/matterhorn-kernel/src/main/java/org/opencastproject/kernel/security/persistence/OrganizationDatabaseException.java
+END
+OrganizationDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/13826/MH/trunk/modules/matterhorn-kernel/src/main/java/org/opencastproject/kernel/security/persistence/OrganizationDatabase.java
+END
+OrganizationDatabaseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/13826/MH/trunk/modules/matterhorn-kernel/src/main/java/org/opencastproject/kernel/security/persistence/OrganizationDatabaseImpl.java
+END
+JpaOrganization.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/13826/MH/trunk/modules/matterhorn-kernel/src/main/java/org/opencastproject/kernel/security/persistence/JpaOrganization.java
+END

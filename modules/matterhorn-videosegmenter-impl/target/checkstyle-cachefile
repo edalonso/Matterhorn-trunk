@@ -1,0 +1,9 @@
+#Wed Jul 10 11:22:50 CEST 2013
+/opt/matterhorn/trunk/modules/matterhorn-videosegmenter-impl/src/main/java/org/opencastproject/videosegmenter/impl/endpoint/VideoSegmenterRestEndpoint.java=1373447087000
+/opt/matterhorn/trunk/modules/matterhorn-videosegmenter-impl/src/main/java/org/opencastproject/videosegmenter/impl/jmf/ImageUtils.java=1373447090000
+/opt/matterhorn/trunk/modules/matterhorn-videosegmenter-impl/src/main/java/org/opencastproject/videosegmenter/impl/jmf/ImageComparator.java=1373447090000
+/opt/matterhorn/trunk/modules/matterhorn-videosegmenter-impl/src/test/java/org/opencastproject/videosegmenter/impl/VideoSegmenterTest.java=1373447087000
+/opt/matterhorn/trunk/modules/matterhorn-videosegmenter-impl/src/main/java/org/opencastproject/videosegmenter/impl/jmf/PlayerListener.java=1373447090000
+/opt/matterhorn/trunk/modules/matterhorn-videosegmenter-impl/src/main/java/org/opencastproject/videosegmenter/impl/jmf/FrameGrabber.java=1373447090000
+/opt/matterhorn/trunk/modules/matterhorn-videosegmenter-impl/src/main/java/org/opencastproject/videosegmenter/impl/VideoSegmenterServiceImpl.java=1373447092000
+configuration*?=00875CFA46F3CA0584FA1A93E79C99D3BFB1427B

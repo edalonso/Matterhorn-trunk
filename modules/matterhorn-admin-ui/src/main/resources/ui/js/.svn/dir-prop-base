@@ -1,0 +1,24 @@
+K 13
+svn:mergeinfo
+V 1868
+/MH/branches/1.1.x/modules/matterhorn-admin-ui/src/main/resources/ui/js:9642-10173
+/MH/branches/1.2.x/modules/matterhorn-admin-ui/src/main/resources/ui/js:10530-11138
+/MH/branches/1.3.x/modules/matterhorn-admin-ui/src/main/resources/ui/js:11563,12344
+/MH/branches/1.4.x/modules/matterhorn-admin-ui/src/main/resources/ui/js:12115,12578,12901,14460
+/MH/branches/MH-2391/modules/matterhorn-admin-ui/src/main/resources/ui/js:6172-6179
+/MH/branches/MH-2691/modules/matterhorn-admin-ui/src/main/resources/ui/js:6442-6456
+/MH/branches/MH-3603/modules/matterhorn-admin-ui/src/main/resources/ui/js:6879-6891
+/MH/branches/MH-5003/modules/matterhorn-admin-ui/src/main/resources/ui/js:8344-8352
+/MH/branches/MH-5361/modules/matterhorn-admin-ui/src/main/resources/ui/js:9238-9248
+/MH/branches/MH-5468/modules/matterhorn-admin-ui/src/main/resources/ui/js:8955-8969
+/MH/branches/MH-7938/modules/matterhorn-admin-ui/src/main/resources/ui/js:10685-10715
+/MH/branches/MH-8232/modules/matterhorn-admin-ui/src/main/resources/ui/js:11086-11993
+/MH/branches/MH-8395/modules/matterhorn-admin-ui/src/main/resources/ui/js:11415-12023
+/MH/branches/bugbash2/modules/matterhorn-admin-ui/src/main/resources/ui/js:13282,13284-13295,13298,13301,13304,13306-13313,13315-13321,13323-13329,13335,13339,13342-13343,13390-13391,13449,13673
+/MH/msub/berkeley.edu/1.2.x/modules/matterhorn-admin-ui/src/main/resources/ui/js:10886,11186
+/MH/msub/berkeley.edu/trunk/modules/matterhorn-admin-ui/src/main/resources/ui/js:14174
+/MH/msub/uct.ac.za/branches/MH-8311/modules/matterhorn-admin-ui/src/main/resources/ui/js:11389-11390
+/MH/tags/1.1.10063/modules/matterhorn-admin-ui/src/main/resources/ui/js:10064-10069
+/MH/tags/1.1.10173/modules/matterhorn-admin-ui/src/main/resources/ui/js:10174-10176
+/MH/trunk/modules/matterhorn-admin-ui/src/main/resources/ui/js:9642-9737*,10575,10608,10645,10656,10666,10668,10816
+END

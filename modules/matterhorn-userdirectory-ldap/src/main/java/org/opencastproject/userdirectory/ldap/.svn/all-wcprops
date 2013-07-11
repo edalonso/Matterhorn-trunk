@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/13279/MH/trunk/modules/matterhorn-userdirectory-ldap/src/main/java/org/opencastproject/userdirectory/ldap
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/10634/MH/trunk/modules/matterhorn-userdirectory-ldap/src/main/java/org/opencastproject/userdirectory/ldap/Activator.java
+END
+LdapUserProviderInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/13279/MH/trunk/modules/matterhorn-userdirectory-ldap/src/main/java/org/opencastproject/userdirectory/ldap/LdapUserProviderInstance.java
+END
+LdapUserProviderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/11839/MH/trunk/modules/matterhorn-userdirectory-ldap/src/main/java/org/opencastproject/userdirectory/ldap/LdapUserProviderFactory.java
+END

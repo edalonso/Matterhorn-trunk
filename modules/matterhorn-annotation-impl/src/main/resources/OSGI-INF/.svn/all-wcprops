@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9585/MH/trunk/modules/matterhorn-annotation-impl/src/main/resources/OSGI-INF
+END
+annotation-service-rest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/9585/MH/trunk/modules/matterhorn-annotation-impl/src/main/resources/OSGI-INF/annotation-service-rest.xml
+END
+annotation-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9249/MH/trunk/modules/matterhorn-annotation-impl/src/main/resources/OSGI-INF/annotation-service.xml
+END

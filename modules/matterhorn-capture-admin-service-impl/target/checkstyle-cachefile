@@ -1,0 +1,12 @@
+#Wed Jul 10 11:12:00 CEST 2013
+/opt/matterhorn/trunk/modules/matterhorn-capture-admin-service-impl/src/main/java/org/opencastproject/capture/admin/impl/CaptureAgentStateServiceImpl.java=1373447231000
+/opt/matterhorn/trunk/modules/matterhorn-capture-admin-service-impl/src/test/java/org/opencastproject/capture/admin/impl/RecordingTest.java=1373447231000
+/opt/matterhorn/trunk/modules/matterhorn-capture-admin-service-impl/src/test/java/org/opencastproject/capture/admin/impl/RecordingStateUpdateTest.java=1373447231000
+/opt/matterhorn/trunk/modules/matterhorn-capture-admin-service-impl/src/main/java/org/opencastproject/capture/admin/endpoint/CaptureAgentStateRestService.java=1373447231000
+/opt/matterhorn/trunk/modules/matterhorn-capture-admin-service-impl/src/main/java/org/opencastproject/capture/admin/impl/AgentImpl.java=1373447231000
+/opt/matterhorn/trunk/modules/matterhorn-capture-admin-service-impl/src/test/java/org/opencastproject/capture/admin/impl/CaptureAgentStateServiceImplTest.java=1373447231000
+/opt/matterhorn/trunk/modules/matterhorn-capture-admin-service-impl/src/test/java/org/opencastproject/capture/admin/impl/AgentTest.java=1373447231000
+/opt/matterhorn/trunk/modules/matterhorn-capture-admin-service-impl/src/test/java/org/opencastproject/capture/admin/impl/AgentStateUpdateTest.java=1373447231000
+configuration*?=2A37FDAC4937607EAB47B1B5FC67CE60B7EC2158
+/opt/matterhorn/trunk/modules/matterhorn-capture-admin-service-impl/src/main/java/org/opencastproject/capture/admin/impl/RecordingImpl.java=1373447231000
+/opt/matterhorn/trunk/modules/matterhorn-capture-admin-service-impl/src/main/java/org/opencastproject/capture/admin/endpoint/AgentStateUpdateList.java=1373447231000

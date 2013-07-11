@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/13366/MH/trunk/modules/matterhorn-mediapackage-ui/src/main/resources/ui/tests/templates
+END
+dublincore.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/12030/MH/trunk/modules/matterhorn-mediapackage-ui/src/main/resources/ui/tests/templates/dublincore.tpl
+END
+itunes.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12030/MH/trunk/modules/matterhorn-mediapackage-ui/src/main/resources/ui/tests/templates/itunes.tpl
+END
+youtube.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/12030/MH/trunk/modules/matterhorn-mediapackage-ui/src/main/resources/ui/tests/templates/youtube.tpl
+END
+files.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/13366/MH/trunk/modules/matterhorn-mediapackage-ui/src/main/resources/ui/tests/templates/files.tpl
+END
+upload.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/13366/MH/trunk/modules/matterhorn-mediapackage-ui/src/main/resources/ui/tests/templates/upload.tpl
+END

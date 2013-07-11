@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/14349/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/elementstore
+END
+DeletionSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/12573/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/elementstore/DeletionSelector.java
+END
+ElementStoreException.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/12573/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/elementstore/ElementStoreException.java
+END
+ElementStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/14349/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/elementstore/ElementStore.java
+END
+Source.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/12573/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/elementstore/Source.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/14149/MH/trunk/docs/scripts/ec2-ami-setup
+END
+set-runtime-config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6791/MH/trunk/docs/scripts/ec2-ami-setup/set-runtime-config.sh
+END
+build-matterhorn-ami.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14149/MH/trunk/docs/scripts/ec2-ami-setup/build-matterhorn-ami.sh
+END

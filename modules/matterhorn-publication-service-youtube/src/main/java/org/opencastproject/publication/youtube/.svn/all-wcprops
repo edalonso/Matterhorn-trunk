@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/14250/MH/trunk/modules/matterhorn-publication-service-youtube/src/main/java/org/opencastproject/publication/youtube
+END
+YouTubePublicationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/14250/MH/trunk/modules/matterhorn-publication-service-youtube/src/main/java/org/opencastproject/publication/youtube/YouTubePublicationServiceImpl.java
+END
+YouTubePublicationContextStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/14250/MH/trunk/modules/matterhorn-publication-service-youtube/src/main/java/org/opencastproject/publication/youtube/YouTubePublicationContextStrategy.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/14250/MH/trunk/modules/matterhorn-publication-service-youtube/src/main/java/org/opencastproject/publication/youtube/package-info.java
+END

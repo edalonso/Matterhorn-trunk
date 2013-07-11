@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/13824/MH/trunk/modules/matterhorn-search-service-impl/src/main/java/org/opencastproject/search/impl/persistence
+END
+SearchServiceDatabaseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/12128/MH/trunk/modules/matterhorn-search-service-impl/src/main/java/org/opencastproject/search/impl/persistence/SearchServiceDatabaseImpl.java
+END
+SearchEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/13824/MH/trunk/modules/matterhorn-search-service-impl/src/main/java/org/opencastproject/search/impl/persistence/SearchEntity.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/12046/MH/trunk/modules/matterhorn-search-service-impl/src/main/java/org/opencastproject/search/impl/persistence/package-info.java
+END
+SearchServiceDatabaseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/12046/MH/trunk/modules/matterhorn-search-service-impl/src/main/java/org/opencastproject/search/impl/persistence/SearchServiceDatabaseException.java
+END
+SearchServiceDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/12046/MH/trunk/modules/matterhorn-search-service-impl/src/main/java/org/opencastproject/search/impl/persistence/SearchServiceDatabase.java
+END

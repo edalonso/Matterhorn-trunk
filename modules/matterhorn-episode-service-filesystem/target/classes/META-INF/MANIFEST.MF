@@ -1,0 +1,31 @@
+Manifest-Version: 1.0
+Service-Component: OSGI-INF/element-store.xml
+Built-By: eduardo
+Bundle-Category: opencastproject
+Tool: Bnd-0.0.357
+Bundle-Name: matterhorn-episode-service-filesystem
+Created-By: Apache Maven Bundle Plugin
+Bundle-Vendor: The Opencast Project
+Build-Jdk: 1.6.0_27
+Bundle-Version: 1.5.0.SNAPSHOT
+Bnd-LastModified: 1373447634312
+Bundle-ManifestVersion: 2
+Bundle-License: http://www.osedu.org/licenses/ECL-2.0/ecl2.txt
+Bundle-Description: The Opencast Project's Matterhorn software is a me
+ dia capture, processing, and distribution system
+Import-Package: org.apache.commons.io;resolution:=optional;version="2.
+ 1",org.apache.commons.lang;resolution:=optional;version="2.6",org.apa
+ che.http;resolution:=optional,org.apache.http.client.methods;resoluti
+ on:=optional;version="4.2",org.opencastproject.episode.api;version="1
+ .5.0.SNAPSHOT",org.opencastproject.episode.impl;version="1.5.0.SNAPSH
+ OT",org.opencastproject.episode.impl.elementstore;version="1.5.0.SNAP
+ SHOT",org.opencastproject.security.api;resolution:=optional;version="
+ 1.5",org.opencastproject.util;resolution:=optional;version="1.5",org.
+ opencastproject.util.data;resolution:=optional;version="1.5",org.open
+ castproject.util.data.functions;resolution:=optional;version="1.5",or
+ g.osgi.framework;resolution:=optional;version="1.5",org.osgi.service.
+ component;resolution:=optional;version="1.1",org.slf4j;resolution:=op
+ tional;version="1.5"
+Bundle-SymbolicName: matterhorn-episode-service-filesystem
+Bundle-DocURL: http://opencastproject.org/
+

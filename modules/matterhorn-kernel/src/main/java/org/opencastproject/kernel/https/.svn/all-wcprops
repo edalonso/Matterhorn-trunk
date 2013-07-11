@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/13723/MH/trunk/modules/matterhorn-kernel/src/main/java/org/opencastproject/kernel/https
+END
+HttpsFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/13723/MH/trunk/modules/matterhorn-kernel/src/main/java/org/opencastproject/kernel/https/HttpsFilter.java
+END
+HttpsRequestWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/13723/MH/trunk/modules/matterhorn-kernel/src/main/java/org/opencastproject/kernel/https/HttpsRequestWrapper.java
+END

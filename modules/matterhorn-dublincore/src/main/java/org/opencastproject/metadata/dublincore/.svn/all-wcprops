@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/14250/MH/trunk/modules/matterhorn-dublincore/src/main/java/org/opencastproject/metadata/dublincore
+END
+DublinCore.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/12160/MH/trunk/modules/matterhorn-dublincore/src/main/java/org/opencastproject/metadata/dublincore/DublinCore.java
+END
+Precision.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/6323/MH/trunk/modules/matterhorn-dublincore/src/main/java/org/opencastproject/metadata/dublincore/Precision.java
+END
+DublinCoreValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/6323/MH/trunk/modules/matterhorn-dublincore/src/main/java/org/opencastproject/metadata/dublincore/DublinCoreValidator.java
+END
+EncodingSchemeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/10410/MH/trunk/modules/matterhorn-dublincore/src/main/java/org/opencastproject/metadata/dublincore/EncodingSchemeUtils.java
+END
+DublinCoreCatalogList.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/12801/MH/trunk/modules/matterhorn-dublincore/src/main/java/org/opencastproject/metadata/dublincore/DublinCoreCatalogList.java
+END
+DCMIPeriod.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/10410/MH/trunk/modules/matterhorn-dublincore/src/main/java/org/opencastproject/metadata/dublincore/DCMIPeriod.java
+END
+DublinCoreCatalog.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/7444/MH/trunk/modules/matterhorn-dublincore/src/main/java/org/opencastproject/metadata/dublincore/DublinCoreCatalog.java
+END
+DublinCoreCatalogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/10721/MH/trunk/modules/matterhorn-dublincore/src/main/java/org/opencastproject/metadata/dublincore/DublinCoreCatalogService.java
+END
+StaticMetadataServiceDublinCoreImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/14250/MH/trunk/modules/matterhorn-dublincore/src/main/java/org/opencastproject/metadata/dublincore/StaticMetadataServiceDublinCoreImpl.java
+END
+DublinCoreCatalogImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/13372/MH/trunk/modules/matterhorn-dublincore/src/main/java/org/opencastproject/metadata/dublincore/DublinCoreCatalogImpl.java
+END
+DublinCoreValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/10410/MH/trunk/modules/matterhorn-dublincore/src/main/java/org/opencastproject/metadata/dublincore/DublinCoreValue.java
+END
+Temporal.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/10752/MH/trunk/modules/matterhorn-dublincore/src/main/java/org/opencastproject/metadata/dublincore/Temporal.java
+END

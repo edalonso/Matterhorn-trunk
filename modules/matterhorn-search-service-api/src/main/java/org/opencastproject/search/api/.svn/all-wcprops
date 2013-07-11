@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/14414/MH/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/search/api
+END
+MediaSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/9435/MH/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/search/api/MediaSegment.java
+END
+SearchResultItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/10752/MH/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/search/api/SearchResultItem.java
+END
+MediaSegmentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/10314/MH/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/search/api/MediaSegmentImpl.java
+END
+MediaSegmentPreview.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/7009/MH/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/search/api/MediaSegmentPreview.java
+END
+SearchException.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/8409/MH/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/search/api/SearchException.java
+END
+SearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/6323/MH/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/search/api/SearchResult.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/search/api/package-info.java
+END
+SearchResultItemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/13195/MH/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/search/api/SearchResultItemImpl.java
+END
+MediaSegmentPreviewImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/10314/MH/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/search/api/MediaSegmentPreviewImpl.java
+END
+SearchResultImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/10410/MH/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/search/api/SearchResultImpl.java
+END
+SearchService.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/13222/MH/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/search/api/SearchService.java
+END
+SearchQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/14414/MH/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/search/api/SearchQuery.java
+END

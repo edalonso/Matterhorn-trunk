@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/14006/MH/trunk/shared-resources/js/ext
+END
+trimpath.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12008/MH/trunk/shared-resources/js/ext/trimpath.js
+END
+date.helper.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14006/MH/trunk/shared-resources/js/ext/date.helper.js
+END
+underscore.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/13616/MH/trunk/shared-resources/js/ext/underscore.min.js
+END
+moment.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14006/MH/trunk/shared-resources/js/ext/moment.min.js
+END

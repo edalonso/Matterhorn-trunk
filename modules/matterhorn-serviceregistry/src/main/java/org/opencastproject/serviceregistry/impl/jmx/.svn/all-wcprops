@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/13742/MH/trunk/modules/matterhorn-serviceregistry/src/main/java/org/opencastproject/serviceregistry/impl/jmx
+END
+JobsStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/13175/MH/trunk/modules/matterhorn-serviceregistry/src/main/java/org/opencastproject/serviceregistry/impl/jmx/JobsStatistics.java
+END
+ServicesStatisticsMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/12570/MH/trunk/modules/matterhorn-serviceregistry/src/main/java/org/opencastproject/serviceregistry/impl/jmx/ServicesStatisticsMXBean.java
+END
+HostsStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/13742/MH/trunk/modules/matterhorn-serviceregistry/src/main/java/org/opencastproject/serviceregistry/impl/jmx/HostsStatistics.java
+END
+ServicesStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/13742/MH/trunk/modules/matterhorn-serviceregistry/src/main/java/org/opencastproject/serviceregistry/impl/jmx/ServicesStatistics.java
+END
+JobsStatisticsMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/12570/MH/trunk/modules/matterhorn-serviceregistry/src/main/java/org/opencastproject/serviceregistry/impl/jmx/JobsStatisticsMXBean.java
+END
+HostsStatisticsMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/12570/MH/trunk/modules/matterhorn-serviceregistry/src/main/java/org/opencastproject/serviceregistry/impl/jmx/HostsStatisticsMXBean.java
+END

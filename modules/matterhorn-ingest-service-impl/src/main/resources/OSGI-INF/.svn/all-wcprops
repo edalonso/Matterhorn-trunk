@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14482/MH/trunk/modules/matterhorn-ingest-service-impl/src/main/resources/OSGI-INF
+END
+inbox-scanner-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/12082/MH/trunk/modules/matterhorn-ingest-service-impl/src/main/resources/OSGI-INF/inbox-scanner-service.xml
+END
+ingest-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/14482/MH/trunk/modules/matterhorn-ingest-service-impl/src/main/resources/OSGI-INF/ingest-service.xml
+END
+ingest-service-rest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/14314/MH/trunk/modules/matterhorn-ingest-service-impl/src/main/resources/OSGI-INF/ingest-service-rest.xml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/13557/MH/trunk/modules/matterhorn-kernel/src/main/java/org/opencastproject/kernel/rest
+END
+CleanSessionsFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/11162/MH/trunk/modules/matterhorn-kernel/src/main/java/org/opencastproject/kernel/rest/CleanSessionsFilter.java
+END
+JsonpFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/12008/MH/trunk/modules/matterhorn-kernel/src/main/java/org/opencastproject/kernel/rest/JsonpFilter.java
+END
+CurrentJobFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/12151/MH/trunk/modules/matterhorn-kernel/src/main/java/org/opencastproject/kernel/rest/CurrentJobFilter.java
+END
+RestPublisher.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/13557/MH/trunk/modules/matterhorn-kernel/src/main/java/org/opencastproject/kernel/rest/RestPublisher.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14461/MH/trunk/modules/matterhorn-common/src/test/java/org/opencastproject/util
+END
+MimeTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/13004/MH/trunk/modules/matterhorn-common/src/test/java/org/opencastproject/util/MimeTypeTest.java
+END
+FileSupportTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/12232/MH/trunk/modules/matterhorn-common/src/test/java/org/opencastproject/util/FileSupportTest.java
+END
+SolrUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/13004/MH/trunk/modules/matterhorn-common/src/test/java/org/opencastproject/util/SolrUtilsTest.java
+END
+ZipUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10421/MH/trunk/modules/matterhorn-common/src/test/java/org/opencastproject/util/ZipUtilTest.java
+END
+JaxbSchemaUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/12232/MH/trunk/modules/matterhorn-common/src/test/java/org/opencastproject/util/JaxbSchemaUtilTest.java
+END
+IoSupportTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12382/MH/trunk/modules/matterhorn-common/src/test/java/org/opencastproject/util/IoSupportTest.java
+END
+EqualUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12160/MH/trunk/modules/matterhorn-common/src/test/java/org/opencastproject/util/EqualUtilTest.java
+END

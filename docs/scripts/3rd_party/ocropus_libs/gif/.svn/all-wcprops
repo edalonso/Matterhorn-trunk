@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12248/MH/trunk/docs/scripts/3rd_party/ocropus_libs/gif
+END
+config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12248/MH/trunk/docs/scripts/3rd_party/ocropus_libs/gif/config.txt
+END
+linux-compile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10076/MH/trunk/docs/scripts/3rd_party/ocropus_libs/gif/linux-compile
+END
+mac-compile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10076/MH/trunk/docs/scripts/3rd_party/ocropus_libs/gif/mac-compile
+END
+win32-compile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10076/MH/trunk/docs/scripts/3rd_party/ocropus_libs/gif/win32-compile
+END
+ports-compile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11043/MH/trunk/docs/scripts/3rd_party/ocropus_libs/gif/ports-compile
+END

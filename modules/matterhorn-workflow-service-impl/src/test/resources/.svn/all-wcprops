@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-workflow-service-impl/src/test/resources
+END
+mediapackage-1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-workflow-service-impl/src/test/resources/mediapackage-1.xml
+END
+mediapackage-2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-workflow-service-impl/src/test/resources/mediapackage-2.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9484/MH/trunk/modules/matterhorn-workflow-service-impl/src/test/resources/log4j.properties
+END
+workflow-definition-pause.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-workflow-service-impl/src/test/resources/workflow-definition-pause.xml
+END
+workflow-definition-pause-last.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-workflow-service-impl/src/test/resources/workflow-definition-pause-last.xml
+END
+workflow-definition-1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-workflow-service-impl/src/test/resources/workflow-definition-1.xml
+END
+workflow-definition-2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-workflow-service-impl/src/test/resources/workflow-definition-2.xml
+END
+workflow-definition-3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-workflow-service-impl/src/test/resources/workflow-definition-3.xml
+END
+workflow-definition-4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-workflow-service-impl/src/test/resources/workflow-definition-4.xml
+END
+workflow-definition-skipping.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-workflow-service-impl/src/test/resources/workflow-definition-skipping.xml
+END
+dc-1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9285/MH/trunk/modules/matterhorn-workflow-service-impl/src/test/resources/dc-1.xml
+END
+dc-2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9285/MH/trunk/modules/matterhorn-workflow-service-impl/src/test/resources/dc-2.xml
+END
+workflow-definition-holdstate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-workflow-service-impl/src/test/resources/workflow-definition-holdstate.xml
+END
+workflow-definition-with-templates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-workflow-service-impl/src/test/resources/workflow-definition-with-templates.xml
+END

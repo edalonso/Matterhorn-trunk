@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/13988/MH/trunk/etc/load
+END
+org.apache.felix.fileinstall-matterhorn.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12100/MH/trunk/etc/load/org.apache.felix.fileinstall-matterhorn.cfg
+END
+org.apache.felix.fileinstall-dictionary.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12100/MH/trunk/etc/load/org.apache.felix.fileinstall-dictionary.cfg
+END
+org.apache.felix.fileinstall-encoding.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12100/MH/trunk/etc/load/org.apache.felix.fileinstall-encoding.cfg
+END
+org.apache.felix.fileinstall-feeds.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12164/MH/trunk/etc/load/org.apache.felix.fileinstall-feeds.cfg
+END
+org.apache.felix.fileinstall-security.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12100/MH/trunk/etc/load/org.apache.felix.fileinstall-security.cfg
+END
+org.opencastproject.organization-mh_default_org.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/13257/MH/trunk/etc/load/org.opencastproject.organization-mh_default_org.cfg
+END
+org.apache.felix.fileinstall-workflows.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12100/MH/trunk/etc/load/org.apache.felix.fileinstall-workflows.cfg
+END
+org.opencastproject.ingest.scanner.InboxScannerService-inbox.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/13159/MH/trunk/etc/load/org.opencastproject.ingest.scanner.InboxScannerService-inbox.cfg
+END

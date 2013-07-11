@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12087/MH/trunk/docs/scripts/3rd_party/ffmpeg_libs/xvid
+END
+Makefile.mingw32
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9190/MH/trunk/docs/scripts/3rd_party/ffmpeg_libs/xvid/Makefile.mingw32
+END
+config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12087/MH/trunk/docs/scripts/3rd_party/ffmpeg_libs/xvid/config.txt
+END
+linux-compile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10076/MH/trunk/docs/scripts/3rd_party/ffmpeg_libs/xvid/linux-compile
+END
+mac-compile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10076/MH/trunk/docs/scripts/3rd_party/ffmpeg_libs/xvid/mac-compile
+END
+win32-compile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10076/MH/trunk/docs/scripts/3rd_party/ffmpeg_libs/xvid/win32-compile
+END
+ports-compile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11043/MH/trunk/docs/scripts/3rd_party/ffmpeg_libs/xvid/ports-compile
+END
+platform.inc.mingw32
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9190/MH/trunk/docs/scripts/3rd_party/ffmpeg_libs/xvid/platform.inc.mingw32
+END

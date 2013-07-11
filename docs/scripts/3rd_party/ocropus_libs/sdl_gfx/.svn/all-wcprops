@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12087/MH/trunk/docs/scripts/3rd_party/ocropus_libs/sdl_gfx
+END
+linux-compile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11308/MH/trunk/docs/scripts/3rd_party/ocropus_libs/sdl_gfx/linux-compile
+END
+mac-compile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10076/MH/trunk/docs/scripts/3rd_party/ocropus_libs/sdl_gfx/mac-compile
+END
+win32-compile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11308/MH/trunk/docs/scripts/3rd_party/ocropus_libs/sdl_gfx/win32-compile
+END
+Makefile.mingw
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9190/MH/trunk/docs/scripts/3rd_party/ocropus_libs/sdl_gfx/Makefile.mingw
+END
+ports-compile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11043/MH/trunk/docs/scripts/3rd_party/ocropus_libs/sdl_gfx/ports-compile
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11308/MH/trunk/docs/scripts/3rd_party/ocropus_libs/sdl_gfx/Makefile.in
+END
+config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12087/MH/trunk/docs/scripts/3rd_party/ocropus_libs/sdl_gfx/config.txt
+END

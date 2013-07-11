@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12030/MH/trunk/modules/matterhorn-serviceregistry/src/main/resources/OSGI-INF
+END
+serviceregistry-endpoint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/9585/MH/trunk/modules/matterhorn-serviceregistry/src/main/resources/OSGI-INF/serviceregistry-endpoint.xml
+END
+maintenance_shell.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/8949/MH/trunk/modules/matterhorn-serviceregistry/src/main/resources/OSGI-INF/maintenance_shell.xml
+END
+serviceregistry.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/12030/MH/trunk/modules/matterhorn-serviceregistry/src/main/resources/OSGI-INF/serviceregistry.xml
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/14250/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/mediapackage/attachment
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/mediapackage/attachment/package-info.java
+END
+AttachmentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/14250/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/mediapackage/attachment/AttachmentImpl.java
+END

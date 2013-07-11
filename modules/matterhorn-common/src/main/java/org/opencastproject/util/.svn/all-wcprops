@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14461/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util
+END
+UnknownFileTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/9454/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/UnknownFileTypeException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/package-info.java
+END
+ConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/9454/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/ConfigurationException.java
+END
+MimeTypeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/13997/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/MimeTypeUtil.java
+END
+ReflectionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/13679/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/ReflectionUtil.java
+END
+DateTimeSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9454/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/DateTimeSupport.java
+END
+HashtableAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/12232/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/HashtableAdapter.java
+END
+LocalHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9597/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/LocalHashMap.java
+END
+JaxbXmlSchemaGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/12232/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/JaxbXmlSchemaGenerator.java
+END
+ProcessExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/13978/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/ProcessExecutor.java
+END
+SolrUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/13004/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/SolrUtils.java
+END
+Checksum.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14349/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/Checksum.java
+END
+HashEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/12232/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/HashEntry.java
+END
+JobUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/14461/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/JobUtil.java
+END
+RestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/13888/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/RestUtil.java
+END
+MimeTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/13004/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/MimeTypes.java
+END
+FileSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/13978/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/FileSupport.java
+END
+XProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/12081/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/XProperties.java
+END
+EqualsUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/13679/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/EqualsUtil.java
+END
+PathSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/12573/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/PathSupport.java
+END
+MimeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14250/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/MimeType.java
+END
+StreamHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/13981/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/StreamHelper.java
+END
+OsgiUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14250/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/OsgiUtil.java
+END
+UrlSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/12573/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/UrlSupport.java
+END
+ZipUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/12232/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/ZipUtil.java
+END
+EnumSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9454/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/EnumSupport.java
+END
+PasswordEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/10377/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/PasswordEncoder.java
+END
+QueryStringBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9565/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/QueryStringBuilder.java
+END
+IoSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/13978/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/IoSupport.java
+END
+ChecksumType.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/12232/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/ChecksumType.java
+END
+JobCanceledException.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/12105/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/JobCanceledException.java
+END
+RequireUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10410/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/RequireUtil.java
+END
+ReadinessIndicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/13520/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/ReadinessIndicator.java
+END
+NotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9454/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/NotFoundException.java
+END
+PropertiesResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/12232/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/PropertiesResponse.java
+END
+HttpUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14461/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/HttpUtil.java
+END
+ProcessExcecutorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/9454/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/ProcessExcecutorException.java
+END

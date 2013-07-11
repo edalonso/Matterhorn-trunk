@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/14034/MH/trunk/modules/matterhorn-kernel/src/main/java/org/opencastproject/kernel/userdirectory
+END
+RoleEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/10345/MH/trunk/modules/matterhorn-kernel/src/main/java/org/opencastproject/kernel/userdirectory/RoleEndpoint.java
+END
+UserAndRoleDirectoryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/14034/MH/trunk/modules/matterhorn-kernel/src/main/java/org/opencastproject/kernel/userdirectory/UserAndRoleDirectoryServiceImpl.java
+END
+InMemoryUserAndRoleProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/13303/MH/trunk/modules/matterhorn-kernel/src/main/java/org/opencastproject/kernel/userdirectory/InMemoryUserAndRoleProvider.java
+END

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.0">
+<file name="/opt/matterhorn/trunk/modules/matterhorn-distribution-service-acl/src/main/java/org/opencastproject/distribution/acl/endpoint/AclDistributionRestService.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-distribution-service-acl/src/main/java/org/opencastproject/distribution/acl/AclDistributionService.java">
+</file>
+</checkstyle>

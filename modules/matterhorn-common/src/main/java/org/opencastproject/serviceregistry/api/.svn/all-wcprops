@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/14461/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/serviceregistry/api
+END
+ServiceRegistryInMemoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/13742/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/serviceregistry/api/ServiceRegistryInMemoryImpl.java
+END
+ServiceRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/13742/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/serviceregistry/api/ServiceRegistration.java
+END
+JaxbServiceRegistrationList.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/9454/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/serviceregistry/api/JaxbServiceRegistrationList.java
+END
+ServiceRegistrationInMemoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/13742/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/serviceregistry/api/ServiceRegistrationInMemoryImpl.java
+END
+JaxbServiceRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/13742/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/serviceregistry/api/JaxbServiceRegistration.java
+END
+ServiceState.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/12030/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/serviceregistry/api/ServiceState.java
+END
+ServiceRegistryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/9454/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/serviceregistry/api/ServiceRegistryException.java
+END
+ServiceRegistrationParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/serviceregistry/api/ServiceRegistrationParser.java
+END
+HostRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/13742/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/serviceregistry/api/HostRegistration.java
+END
+JaxbHostRegistrationList.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/12662/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/serviceregistry/api/JaxbHostRegistrationList.java
+END
+ServiceStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/13037/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/serviceregistry/api/ServiceStatistics.java
+END
+JaxbServiceStatisticsList.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/9454/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/serviceregistry/api/JaxbServiceStatisticsList.java
+END
+JaxbHostRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/13742/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/serviceregistry/api/JaxbHostRegistration.java
+END
+JaxbServiceStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/13037/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/serviceregistry/api/JaxbServiceStatistics.java
+END
+ServiceUnavailableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/9454/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/serviceregistry/api/ServiceUnavailableException.java
+END
+SystemLoad.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/9604/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/serviceregistry/api/SystemLoad.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/serviceregistry/api/package-info.java
+END
+HostRegistrationParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/12662/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/serviceregistry/api/HostRegistrationParser.java
+END
+RemoteBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/14461/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/serviceregistry/api/RemoteBase.java
+END
+ServiceRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/13742/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/serviceregistry/api/ServiceRegistry.java
+END

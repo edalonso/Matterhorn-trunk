@@ -1,0 +1,26 @@
+#Wed Jul 10 11:16:06 CEST 2013
+/opt/matterhorn/trunk/modules/matterhorn-workflow-service-impl/src/main/java/org/opencastproject/workflow/impl/WorkflowDefinitionScanner.java=1373447383000
+/opt/matterhorn/trunk/modules/matterhorn-workflow-service-impl/src/main/java/org/opencastproject/workflow/endpoint/WorkflowRestService.java=1373447379000
+/opt/matterhorn/trunk/modules/matterhorn-workflow-service-impl/src/test/java/org/opencastproject/workflow/impl/WorkflowStatisticsTest.java=1373447379000
+/opt/matterhorn/trunk/modules/matterhorn-workflow-service-impl/src/test/java/org/opencastproject/workflow/impl/WorkflowConfigurationTest.java=1373447379000
+/opt/matterhorn/trunk/modules/matterhorn-workflow-service-impl/src/test/java/org/opencastproject/workflow/impl/WorkflowInstanceTest.java=1373447379000
+/opt/matterhorn/trunk/modules/matterhorn-workflow-service-impl/src/main/java/org/opencastproject/workflow/impl/WorkflowServiceIndex.java=1373447383000
+/opt/matterhorn/trunk/modules/matterhorn-workflow-service-impl/src/test/java/org/opencastproject/workflow/impl/PauseFinalOperationTest.java=1373447379000
+/opt/matterhorn/trunk/modules/matterhorn-workflow-service-impl/src/test/java/org/opencastproject/workflow/impl/PauseWorkflowTest.java=1373447379000
+/opt/matterhorn/trunk/modules/matterhorn-workflow-service-impl/src/test/java/org/opencastproject/workflow/impl/WorkflowServiceImplAuthzTest.java=1373447379000
+/opt/matterhorn/trunk/modules/matterhorn-workflow-service-impl/src/test/java/org/opencastproject/workflow/impl/WorkflowRestEndpointTest.java=1373447379000
+/opt/matterhorn/trunk/modules/matterhorn-workflow-service-impl/src/main/java/org/opencastproject/workflow/impl/jmx/WorkflowsStatistics.java=1373447383000
+/opt/matterhorn/trunk/modules/matterhorn-workflow-service-impl/src/test/java/org/opencastproject/workflow/impl/WorkflowServiceImplTest.java=1373447379000
+/opt/matterhorn/trunk/modules/matterhorn-workflow-service-impl/src/test/java/org/opencastproject/workflow/impl/HoldStateTest.java=1373447379000
+/opt/matterhorn/trunk/modules/matterhorn-workflow-service-impl/src/main/java/org/opencastproject/workflow/impl/WorkflowServiceImpl.java=1373447383000
+/opt/matterhorn/trunk/modules/matterhorn-workflow-service-impl/src/test/java/org/opencastproject/workflow/impl/WorkflowOperationSkippingTest.java=1373447379000
+/opt/matterhorn/trunk/modules/matterhorn-workflow-service-impl/src/main/java/org/opencastproject/workflow/impl/WorkflowOperationWorker.java=1373447383000
+/opt/matterhorn/trunk/modules/matterhorn-workflow-service-impl/src/test/java/org/opencastproject/workflow/impl/WorkflowServiceSolrIndexTest.java=1373447379000
+configuration*?=2CD37BAD02E603184EBF28872817B4188EDB7A4F
+/opt/matterhorn/trunk/modules/matterhorn-workflow-service-impl/src/test/java/org/opencastproject/workflow/impl/PropertyReplacementTest.java=1373447379000
+/opt/matterhorn/trunk/modules/matterhorn-workflow-service-impl/src/test/java/org/opencastproject/workflow/impl/MetadataExtractionTest.java=1373447379000
+/opt/matterhorn/trunk/modules/matterhorn-workflow-service-impl/src/test/java/org/opencastproject/workflow/impl/ResumableTestWorkflowOperationHandler.java=1373447379000
+/opt/matterhorn/trunk/modules/matterhorn-workflow-service-impl/src/main/java/org/opencastproject/workflow/impl/jmx/WorkflowsStatisticsMXBean.java=1373447383000
+/opt/matterhorn/trunk/modules/matterhorn-workflow-service-impl/src/test/java/org/opencastproject/workflow/impl/CountWorkflowsTest.java=1373447379000
+/opt/matterhorn/trunk/modules/matterhorn-workflow-service-impl/src/test/java/org/opencastproject/workflow/impl/SecurityServiceStub.java=1373447379000
+/opt/matterhorn/trunk/modules/matterhorn-workflow-service-impl/src/main/java/org/opencastproject/workflow/impl/WorkflowServiceSolrIndex.java=1373447383000

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14416/MH/trunk/shared-resources/js/engage_plugins/annotation
+END
+annotation_comment.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14416/MH/trunk/shared-resources/js/engage_plugins/annotation/annotation_comment.js
+END
+slide_comment-plugin.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/12085/MH/trunk/shared-resources/js/engage_plugins/annotation/slide_comment-plugin.js
+END
+annotation_comment_list-plugin.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/13466/MH/trunk/shared-resources/js/engage_plugins/annotation/annotation_comment_list-plugin.js
+END
+scrubber_comment-plugin.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/13466/MH/trunk/shared-resources/js/engage_plugins/annotation/scrubber_comment-plugin.js
+END
+annotation_comment_list.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/14412/MH/trunk/shared-resources/js/engage_plugins/annotation/annotation_comment_list.js
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/12053/MH/trunk/modules/matterhorn-caption-impl/src/main/resources/OSGI-INF/converters
+END
+mpeg7-caption-converter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/12053/MH/trunk/modules/matterhorn-caption-impl/src/main/resources/OSGI-INF/converters/mpeg7-caption-converter.xml
+END
+dfxp-caption-converter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/8787/MH/trunk/modules/matterhorn-caption-impl/src/main/resources/OSGI-INF/converters/dfxp-caption-converter.xml
+END
+subrip-caption-converter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/8787/MH/trunk/modules/matterhorn-caption-impl/src/main/resources/OSGI-INF/converters/subrip-caption-converter.xml
+END

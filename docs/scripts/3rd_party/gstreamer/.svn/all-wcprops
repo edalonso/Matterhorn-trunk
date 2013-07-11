@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/13271/MH/trunk/docs/scripts/3rd_party/gstreamer
+END
+ports-compile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12914/MH/trunk/docs/scripts/3rd_party/gstreamer/ports-compile
+END
+config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12914/MH/trunk/docs/scripts/3rd_party/gstreamer/config.txt
+END
+install-plugins-ugly-centos-5.x
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/12914/MH/trunk/docs/scripts/3rd_party/gstreamer/install-plugins-ugly-centos-5.x
+END
+linux-compile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/13271/MH/trunk/docs/scripts/3rd_party/gstreamer/linux-compile
+END
+mac-compile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12914/MH/trunk/docs/scripts/3rd_party/gstreamer/mac-compile
+END
+versions.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12914/MH/trunk/docs/scripts/3rd_party/gstreamer/versions.txt
+END
+win32-compile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12914/MH/trunk/docs/scripts/3rd_party/gstreamer/win32-compile
+END

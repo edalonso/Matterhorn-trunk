@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/14350/MH/trunk/modules/matterhorn-series-service-impl/src/main/java/org/opencastproject/series/impl/persistence
+END
+SeriesServiceDatabaseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/14350/MH/trunk/modules/matterhorn-series-service-impl/src/main/java/org/opencastproject/series/impl/persistence/SeriesServiceDatabaseImpl.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/10084/MH/trunk/modules/matterhorn-series-service-impl/src/main/java/org/opencastproject/series/impl/persistence/package-info.java
+END
+SeriesEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/13824/MH/trunk/modules/matterhorn-series-service-impl/src/main/java/org/opencastproject/series/impl/persistence/SeriesEntity.java
+END

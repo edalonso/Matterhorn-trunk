@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-static/src/main/java/org/opencastproject/fsresources
+END
+StaticResourceServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/10929/MH/trunk/modules/matterhorn-static/src/main/java/org/opencastproject/fsresources/StaticResourceServlet.java
+END
+ResourceServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-static/src/main/java/org/opencastproject/fsresources/ResourceServlet.java
+END

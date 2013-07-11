@@ -1,0 +1,28 @@
+Manifest-Version: 1.0
+Service-Component: OSGI-INF/opencast-lti.xml
+Export-Package: org.opencastproject.lti;uses:="javax.servlet,org.json.
+ simple,org.slf4j,org.apache.commons.lang,javax.servlet.http"
+Http-Classpath: /tools
+Built-By: eduardo
+Bundle-Category: opencastproject
+Tool: Bnd-0.0.357
+Bundle-Name: matterhorn-lti
+Created-By: Apache Maven Bundle Plugin
+Bundle-Vendor: The Opencast Project
+Build-Jdk: 1.6.0_27
+Bundle-Version: 1.5.0.SNAPSHOT
+Bnd-LastModified: 1373447656339
+Http-Alias: /ltitools
+Http-Welcome: index.html
+Bundle-ManifestVersion: 2
+Bundle-Description: The Opencast Project's Matterhorn software is a me
+ dia capture, processing, and distribution system
+Bundle-License: http://www.osedu.org/licenses/ECL-2.0/ecl2.txt
+Import-Package: javax.servlet;resolution:=optional,javax.servlet.http;
+ resolution:=optional,org.apache.commons.lang;resolution:=optional;ver
+ sion="2.6",org.json.simple;resolution:=optional,org.opencastproject.l
+ ti;resolution:=optional,org.opencastproject.rest;version="1.5.0.SNAPS
+ HOT",org.slf4j;resolution:=optional;version="1.5"
+Bundle-SymbolicName: matterhorn-lti
+Bundle-DocURL: http://opencastproject.org/
+

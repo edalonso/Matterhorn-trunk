@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/14958/MH/trunk/docs
+END
+licenses.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/7726/MH/trunk/docs/licenses.txt
+END
+subversion.config
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5905/MH/trunk/docs/subversion.config
+END
+HOWTO-REST-SERVICES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5905/MH/trunk/docs/HOWTO-REST-SERVICES.txt
+END

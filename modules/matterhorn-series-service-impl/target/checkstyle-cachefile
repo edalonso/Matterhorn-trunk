@@ -1,0 +1,14 @@
+#Wed Jul 10 11:13:06 CEST 2013
+/opt/matterhorn/trunk/modules/matterhorn-series-service-impl/src/main/java/org/opencastproject/series/impl/solr/SolrFields.java=1373447428000
+/opt/matterhorn/trunk/modules/matterhorn-series-service-impl/src/main/java/org/opencastproject/series/impl/solr/SeriesServiceSolrIndex.java=1373447428000
+/opt/matterhorn/trunk/modules/matterhorn-series-service-impl/src/main/java/org/opencastproject/series/impl/SeriesServiceIndex.java=1373447428000
+/opt/matterhorn/trunk/modules/matterhorn-series-service-impl/src/test/java/org/opencastproject/series/impl/persistence/SeriesServicePersistenceTest.java=1373447427000
+/opt/matterhorn/trunk/modules/matterhorn-series-service-impl/src/main/java/org/opencastproject/series/impl/persistence/SeriesServiceDatabaseImpl.java=1373447428000
+/opt/matterhorn/trunk/modules/matterhorn-series-service-impl/src/test/java/org/opencastproject/series/impl/SeriesServiceImplTest.java=1373447427000
+/opt/matterhorn/trunk/modules/matterhorn-series-service-impl/src/test/java/org/opencastproject/series/impl/solr/SeriesServiceSolrTest.java=1373447427000
+/opt/matterhorn/trunk/modules/matterhorn-series-service-impl/src/main/java/org/opencastproject/series/impl/SeriesServiceImpl.java=1373447428000
+/opt/matterhorn/trunk/modules/matterhorn-series-service-impl/src/main/java/org/opencastproject/series/impl/SeriesServiceDatabaseException.java=1373447428000
+/opt/matterhorn/trunk/modules/matterhorn-series-service-impl/src/main/java/org/opencastproject/series/endpoint/SeriesRestService.java=1373447428000
+/opt/matterhorn/trunk/modules/matterhorn-series-service-impl/src/main/java/org/opencastproject/series/impl/SeriesServiceDatabase.java=1373447428000
+/opt/matterhorn/trunk/modules/matterhorn-series-service-impl/src/main/java/org/opencastproject/series/impl/persistence/SeriesEntity.java=1373447428000
+configuration*?=0370DE892439443B622B5AA45D50F651E9CDAE36

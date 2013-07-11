@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/14294/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api
+END
+WorkflowInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/11887/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/WorkflowInstance.java
+END
+WorkflowOperationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/10076/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/WorkflowOperationException.java
+END
+WorkflowOperationResultImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/9334/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/WorkflowOperationResultImpl.java
+END
+WorkflowParsingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/9466/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/WorkflowParsingException.java
+END
+AbstractWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/12790/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/AbstractWorkflowOperationHandler.java
+END
+ConfiguredWorkflowRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/13679/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/ConfiguredWorkflowRef.java
+END
+WorkflowListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/9519/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/WorkflowListener.java
+END
+WorkflowConfigurationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/10314/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/WorkflowConfigurationImpl.java
+END
+WorkflowOperationDefinitionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/12030/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/WorkflowOperationDefinitionImpl.java
+END
+WorkflowParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/WorkflowParser.java
+END
+ResumableWorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/10158/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/ResumableWorkflowOperationHandler.java
+END
+WorkflowOperationResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/10076/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/WorkflowOperationResult.java
+END
+WorkflowService.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/13849/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/WorkflowService.java
+END
+WorkflowDefinitionSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/10314/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/WorkflowDefinitionSet.java
+END
+WorkflowQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/11281/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/WorkflowQuery.java
+END
+Configurable.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/9430/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/Configurable.java
+END
+WorkflowOperationInstanceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/12030/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/WorkflowOperationInstanceImpl.java
+END
+WorkflowConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/9430/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/WorkflowConfiguration.java
+END
+WorkflowOperationDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/12030/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/WorkflowOperationDefinition.java
+END
+WorkflowDefinitionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/13379/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/WorkflowDefinitionImpl.java
+END
+WorkflowSetImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/10314/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/WorkflowSetImpl.java
+END
+WorkflowDatabaseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/9466/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/WorkflowDatabaseException.java
+END
+WorkflowOperationInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/12030/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/WorkflowOperationInstance.java
+END
+ConfiguredWorkflow.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/13679/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/ConfiguredWorkflow.java
+END
+WorkflowStateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/9612/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/WorkflowStateListener.java
+END
+WorkflowInstanceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/14294/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/WorkflowInstanceImpl.java
+END
+WorkflowDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/13379/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/WorkflowDefinition.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/package-info.java
+END
+WorkflowStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/9454/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/WorkflowStatistics.java
+END
+WorkflowSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/9430/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/WorkflowSet.java
+END
+RetryStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/12030/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/RetryStrategy.java
+END
+WorkflowOperationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/10076/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/WorkflowOperationHandler.java
+END
+WorkflowException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/13849/MH/trunk/modules/matterhorn-workflow-service-api/src/main/java/org/opencastproject/workflow/api/WorkflowException.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/13520/MH/trunk/modules/matterhorn-composer-ffmpeg/src/main/resources/OSGI-INF
+END
+composer-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/13520/MH/trunk/modules/matterhorn-composer-ffmpeg/src/main/resources/OSGI-INF/composer-service.xml
+END
+encoderengine.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9567/MH/trunk/modules/matterhorn-composer-ffmpeg/src/main/resources/OSGI-INF/encoderengine.xml
+END
+profile-scanner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/13520/MH/trunk/modules/matterhorn-composer-ffmpeg/src/main/resources/OSGI-INF/profile-scanner.xml
+END
+embedderengine.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10076/MH/trunk/modules/matterhorn-composer-ffmpeg/src/main/resources/OSGI-INF/embedderengine.xml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/12937/MH/trunk/modules/matterhorn-composer-gstreamer/src/main/java/org/opencastproject/composer/gstreamer
+END
+GStreamerComposerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/11583/MH/trunk/modules/matterhorn-composer-gstreamer/src/main/java/org/opencastproject/composer/gstreamer/GStreamerComposerService.java
+END
+AbstractGSEncoderEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/11583/MH/trunk/modules/matterhorn-composer-gstreamer/src/main/java/org/opencastproject/composer/gstreamer/AbstractGSEncoderEngine.java
+END
+GSEncodingProfileScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/9490/MH/trunk/modules/matterhorn-composer-gstreamer/src/main/java/org/opencastproject/composer/gstreamer/GSEncodingProfileScanner.java
+END
+GStreamerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/9498/MH/trunk/modules/matterhorn-composer-gstreamer/src/main/java/org/opencastproject/composer/gstreamer/GStreamerFactory.java
+END

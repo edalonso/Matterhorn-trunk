@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Service-Component: OSGI-INF/mediapackage-service-rest.xml
+Export-Package: org.opencastproject.manipulator.rest;uses:="javax.ws.r
+ s,org.opencastproject.mediapackage.attachment,org.opencastproject.uti
+ l,org.opencastproject.mediapackage,org.opencastproject.util.doc.rest,
+ org.osgi.service.component,org.slf4j,javax.ws.rs.core"
+Built-By: eduardo
+Bundle-Category: opencastproject
+Tool: Bnd-0.0.357
+Bundle-Name: matterhorn-mediapackage-manipulator
+Created-By: Apache Maven Bundle Plugin
+Bundle-Vendor: The Opencast Project
+Build-Jdk: 1.6.0_27
+Bundle-Version: 1.5.0.SNAPSHOT
+Bnd-LastModified: 1373447657593
+Bundle-ManifestVersion: 2
+Bundle-License: http://www.osedu.org/licenses/ECL-2.0/ecl2.txt
+Bundle-Description: The Opencast Project's Matterhorn software is a me
+ dia capture, processing, and distribution system
+Import-Package: javax.ws.rs;resolution:=optional;version="1.1",javax.w
+ s.rs.core;resolution:=optional;version="1.1",org.opencastproject.mani
+ pulator.rest;resolution:=optional,org.opencastproject.mediapackage;ve
+ rsion="1.5.0.SNAPSHOT",org.opencastproject.mediapackage.attachment;re
+ solution:=optional;version="1.5",org.opencastproject.util;resolution:
+ =optional;version="1.5",org.opencastproject.util.doc.rest;version="1.
+ 5.0.SNAPSHOT",org.osgi.service.component;resolution:=optional;version
+ ="1.1",org.slf4j;resolution:=optional;version="1.5"
+Bundle-SymbolicName: matterhorn-mediapackage-manipulator
+Bundle-DocURL: http://opencastproject.org/
+

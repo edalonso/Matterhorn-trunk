@@ -1,0 +1,14 @@
+#Wed Jul 10 11:11:25 CEST 2013
+/opt/matterhorn/trunk/modules/matterhorn-metadata-api/src/main/java/org/opencastproject/metadata/api/MetadataService.java=1373447296000
+/opt/matterhorn/trunk/modules/matterhorn-metadata-api/src/main/java/org/opencastproject/metadata/api/MediaPackageMetadataService.java=1373447296000
+/opt/matterhorn/trunk/modules/matterhorn-metadata-api/src/main/java/org/opencastproject/metadata/api/MediapackageMetadataImpl.java=1373447296000
+/opt/matterhorn/trunk/modules/matterhorn-metadata-api/src/main/java/org/opencastproject/metadata/api/MetadataCatalog.java=1373447296000
+/opt/matterhorn/trunk/modules/matterhorn-metadata-api/src/main/java/org/opencastproject/metadata/api/CatalogService.java=1373447296000
+/opt/matterhorn/trunk/modules/matterhorn-metadata-api/src/main/java/org/opencastproject/metadata/api/MetadataValues.java=1373447296000
+/opt/matterhorn/trunk/modules/matterhorn-metadata-api/src/main/java/org/opencastproject/metadata/api/StaticMetadata.java=1373447296000
+/opt/matterhorn/trunk/modules/matterhorn-metadata-api/src/main/java/org/opencastproject/metadata/api/util/Interval.java=1373447296000
+/opt/matterhorn/trunk/modules/matterhorn-metadata-api/src/main/java/org/opencastproject/metadata/api/StaticMetadataService.java=1373447296000
+/opt/matterhorn/trunk/modules/matterhorn-metadata-api/src/main/java/org/opencastproject/metadata/api/MediaPackageMetadata.java=1373447296000
+/opt/matterhorn/trunk/modules/matterhorn-metadata-api/src/main/java/org/opencastproject/metadata/api/MetadataValue.java=1373447296000
+/opt/matterhorn/trunk/modules/matterhorn-metadata-api/src/test/java/org/opencast/metadata/api/util/IntervalTest.java=1373447296000
+configuration*?=005A01275475F0211C60DF53722052D398D12CDC

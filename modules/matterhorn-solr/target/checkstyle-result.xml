@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.0">
+<file name="/opt/matterhorn/trunk/modules/matterhorn-solr/src/main/java/org/opencastproject/solr/SolrServerFactory.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-solr/src/main/java/org/opencastproject/solr/internal/EmbeddedSolrServerWrapper.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-solr/src/main/java/org/opencastproject/solr/NonTokenizingFactory.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-solr/src/main/java/org/opencastproject/solr/WildcardQueryParserPlugin.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-solr/src/main/java/org/apache/solr/core/OpencastSolrConfig.java">
+</file>
+</checkstyle>

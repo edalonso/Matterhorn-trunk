@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10410/MH/trunk/modules/matterhorn-dublincore/src/main/resources/OSGI-INF
+END
+dublin-core-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7537/MH/trunk/modules/matterhorn-dublincore/src/main/resources/OSGI-INF/dublin-core-service.xml
+END
+static-metadata-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/10410/MH/trunk/modules/matterhorn-dublincore/src/main/resources/OSGI-INF/static-metadata-service.xml
+END

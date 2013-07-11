@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/14250/MH/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/scanner
+END
+InboxScannerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/13159/MH/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/scanner/InboxScannerService.java
+END
+Ingestor.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/14250/MH/trunk/modules/matterhorn-ingest-service-impl/src/main/java/org/opencastproject/ingest/scanner/Ingestor.java
+END

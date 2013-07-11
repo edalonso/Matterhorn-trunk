@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/13616/MH/trunk/modules/matterhorn-series-service-impl/src/test/resources
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/12160/MH/trunk/modules/matterhorn-series-service-impl/src/test/resources/log4j.properties
+END
+dublincore.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/13616/MH/trunk/modules/matterhorn-series-service-impl/src/test/resources/dublincore.xml
+END
+dublincore2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/12160/MH/trunk/modules/matterhorn-series-service-impl/src/test/resources/dublincore2.xml
+END

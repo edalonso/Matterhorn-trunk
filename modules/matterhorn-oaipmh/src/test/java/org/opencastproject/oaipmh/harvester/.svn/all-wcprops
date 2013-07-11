@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/11102/MH/trunk/modules/matterhorn-oaipmh/src/test/java/org/opencastproject/oaipmh/harvester
+END
+OaiPmhResponseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/11102/MH/trunk/modules/matterhorn-oaipmh/src/test/java/org/opencastproject/oaipmh/harvester/OaiPmhResponseTest.java
+END
+LastHarvestedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/10793/MH/trunk/modules/matterhorn-oaipmh/src/test/java/org/opencastproject/oaipmh/harvester/LastHarvestedTest.java
+END

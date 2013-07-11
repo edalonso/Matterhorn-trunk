@@ -1,0 +1,13 @@
+K 13
+svn:mergeinfo
+V 581
+/MH/branches/1.2.x/shared-resources:10982-11138
+/MH/branches/1.3.x/shared-resources:11563,12344
+/MH/branches/1.4.x/shared-resources:12115,12578,12901,14460
+/MH/branches/MH-8232/shared-resources:11086-11993
+/MH/branches/MH-8395/shared-resources:11415-12023
+/MH/branches/bugbash2/shared-resources:13282,13284-13295,13298,13301,13304,13306-13313,13315-13321,13323-13329,13335,13339,13342-13343,13390-13391,13449,13673
+/MH/msub/berkeley.edu/1.2.x/shared-resources:11186
+/MH/msub/berkeley.edu/trunk/shared-resources:14174
+/MH/msub/uct.ac.za/branches/MH-8311/shared-resources:11389-11390
+END

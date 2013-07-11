@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/6117/MH/trunk/modules/matterhorn-runtime-info-ui/src/main/resources/uitests/tests/dogfood/aut
+END
+PauseTestSuite.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/6117/MH/trunk/modules/matterhorn-runtime-info-ui/src/main/resources/uitests/tests/dogfood/aut/PauseTestSuite.html
+END
+BaseUrl1TestSuite.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/6117/MH/trunk/modules/matterhorn-runtime-info-ui/src/main/resources/uitests/tests/dogfood/aut/BaseUrl1TestSuite.html
+END
+BaseUrl2TestSuite.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/6117/MH/trunk/modules/matterhorn-runtime-info-ui/src/main/resources/uitests/tests/dogfood/aut/BaseUrl2TestSuite.html
+END
+TestBaseUrl1.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/6117/MH/trunk/modules/matterhorn-runtime-info-ui/src/main/resources/uitests/tests/dogfood/aut/TestBaseUrl1.html
+END
+TestBaseUrl2.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/6117/MH/trunk/modules/matterhorn-runtime-info-ui/src/main/resources/uitests/tests/dogfood/aut/TestBaseUrl2.html
+END
+TestTimeout.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/6117/MH/trunk/modules/matterhorn-runtime-info-ui/src/main/resources/uitests/tests/dogfood/aut/TestTimeout.html
+END

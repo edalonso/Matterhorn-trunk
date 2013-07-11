@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11209/MH/trunk/modules/matterhorn-load-test/src/main/resources/OSGI-INF
+END
+load-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/11209/MH/trunk/modules/matterhorn-load-test/src/main/resources/OSGI-INF/load-test.xml
+END
+load-test-rest-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/11209/MH/trunk/modules/matterhorn-load-test/src/main/resources/OSGI-INF/load-test-rest-service.xml
+END

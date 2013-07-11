@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12245/MH/trunk/docs/scripts/3rd_party/tesseract
+END
+config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12244/MH/trunk/docs/scripts/3rd_party/tesseract/config.txt
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12245/MH/trunk/docs/scripts/3rd_party/tesseract/configure.ac
+END
+linux-compile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12244/MH/trunk/docs/scripts/3rd_party/tesseract/linux-compile
+END
+winsock2.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9190/MH/trunk/docs/scripts/3rd_party/tesseract/winsock2.h
+END
+mac-compile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12244/MH/trunk/docs/scripts/3rd_party/tesseract/mac-compile
+END
+strngs.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12245/MH/trunk/docs/scripts/3rd_party/tesseract/strngs.h
+END
+win32-compile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12244/MH/trunk/docs/scripts/3rd_party/tesseract/win32-compile
+END
+winsock2.h.org
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9190/MH/trunk/docs/scripts/3rd_party/tesseract/winsock2.h.org
+END
+ports-compile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12244/MH/trunk/docs/scripts/3rd_party/tesseract/ports-compile
+END
+tesseract-3.01m.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12244/MH/trunk/docs/scripts/3rd_party/tesseract/tesseract-3.01m.tar.gz
+END

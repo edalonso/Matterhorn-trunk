@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8028/MH/trunk/docs/scripts/ubuntu_capture_agent/pipelines
+END
+vga_with_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8028/MH/trunk/docs/scripts/ubuntu_capture_agent/pipelines/vga_with_c.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7687/MH/trunk/docs/scripts/ubuntu_capture_agent/pipelines/Makefile
+END
+h_wo_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7330/MH/trunk/docs/scripts/ubuntu_capture_agent/pipelines/h_wo_c.c
+END
+h_with_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7330/MH/trunk/docs/scripts/ubuntu_capture_agent/pipelines/h_with_c.c
+END

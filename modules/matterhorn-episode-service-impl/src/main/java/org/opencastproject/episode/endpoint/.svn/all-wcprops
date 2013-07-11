@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/14250/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/endpoint
+END
+OsgiEpisodeServiceRestEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/13004/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/endpoint/OsgiEpisodeServiceRestEndpoint.java
+END
+AbstractEpisodeServiceRestEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/14250/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/endpoint/AbstractEpisodeServiceRestEndpoint.java
+END

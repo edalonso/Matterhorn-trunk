@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/13392/MH/trunk/modules/matterhorn-capture-admin-service-impl/src/test/java/org/opencastproject/capture/admin/impl
+END
+CaptureAgentStateServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/13392/MH/trunk/modules/matterhorn-capture-admin-service-impl/src/test/java/org/opencastproject/capture/admin/impl/CaptureAgentStateServiceImplTest.java
+END
+RecordingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/10416/MH/trunk/modules/matterhorn-capture-admin-service-impl/src/test/java/org/opencastproject/capture/admin/impl/RecordingTest.java
+END
+AgentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/13392/MH/trunk/modules/matterhorn-capture-admin-service-impl/src/test/java/org/opencastproject/capture/admin/impl/AgentTest.java
+END
+RecordingStateUpdateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/10416/MH/trunk/modules/matterhorn-capture-admin-service-impl/src/test/java/org/opencastproject/capture/admin/impl/RecordingStateUpdateTest.java
+END
+AgentStateUpdateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/13392/MH/trunk/modules/matterhorn-capture-admin-service-impl/src/test/java/org/opencastproject/capture/admin/impl/AgentStateUpdateTest.java
+END

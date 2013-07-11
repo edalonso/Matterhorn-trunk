@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10503/MH/trunk/modules/matterhorn-metadata-api/src/main/java/org/opencastproject/metadata/api
+END
+StaticMetadataService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/10410/MH/trunk/modules/matterhorn-metadata-api/src/main/java/org/opencastproject/metadata/api/StaticMetadataService.java
+END
+CatalogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/7736/MH/trunk/modules/matterhorn-metadata-api/src/main/java/org/opencastproject/metadata/api/CatalogService.java
+END
+MetadataCatalog.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/7444/MH/trunk/modules/matterhorn-metadata-api/src/main/java/org/opencastproject/metadata/api/MetadataCatalog.java
+END
+MediaPackageMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/10410/MH/trunk/modules/matterhorn-metadata-api/src/main/java/org/opencastproject/metadata/api/MediaPackageMetadata.java
+END
+MediaPackageMetadataService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/10410/MH/trunk/modules/matterhorn-metadata-api/src/main/java/org/opencastproject/metadata/api/MediaPackageMetadataService.java
+END
+MetadataValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/10410/MH/trunk/modules/matterhorn-metadata-api/src/main/java/org/opencastproject/metadata/api/MetadataValue.java
+END
+MediapackageMetadataImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/10410/MH/trunk/modules/matterhorn-metadata-api/src/main/java/org/opencastproject/metadata/api/MediapackageMetadataImpl.java
+END
+MetadataValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/10410/MH/trunk/modules/matterhorn-metadata-api/src/main/java/org/opencastproject/metadata/api/MetadataValues.java
+END
+MetadataService.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/10410/MH/trunk/modules/matterhorn-metadata-api/src/main/java/org/opencastproject/metadata/api/MetadataService.java
+END
+StaticMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/10503/MH/trunk/modules/matterhorn-metadata-api/src/main/java/org/opencastproject/metadata/api/StaticMetadata.java
+END

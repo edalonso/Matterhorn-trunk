@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/13846/MH/trunk/modules/matterhorn-dictionary-impl/src/main/java/org/opencastproject/dictionary/impl
+END
+DictionaryScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/13846/MH/trunk/modules/matterhorn-dictionary-impl/src/main/java/org/opencastproject/dictionary/impl/DictionaryScanner.java
+END
+DictionaryServiceJpaImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/12128/MH/trunk/modules/matterhorn-dictionary-impl/src/main/java/org/opencastproject/dictionary/impl/DictionaryServiceJpaImpl.java
+END
+Word.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/13824/MH/trunk/modules/matterhorn-dictionary-impl/src/main/java/org/opencastproject/dictionary/impl/Word.java
+END

@@ -1,0 +1,8 @@
+07-10 11:12:05 jdbc[10]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "MH_CAPTURE_AGENT_STATE" ya existe
+Table "MH_CAPTURE_AGENT_STATE" already exists; SQL statement:
+CREATE TABLE mh_capture_agent_state (organization VARCHAR(128) NOT NULL, id VARCHAR(128) NOT NULL, configuration LONGVARCHAR, state LONGVARCHAR NOT NULL, last_heard_from BIGINT NOT NULL, url LONGVARCHAR, PRIMARY KEY (organization, id)) [42101-149]
+07-10 11:12:05 jdbc[10]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "MH_CAPTURE_AGENT_ROLE" ya existe
+Table "MH_CAPTURE_AGENT_ROLE" already exists; SQL statement:
+CREATE TABLE mh_capture_agent_role (id VARCHAR(128) NOT NULL, organization VARCHAR(128) NOT NULL, role VARCHAR(255)) [42101-149]

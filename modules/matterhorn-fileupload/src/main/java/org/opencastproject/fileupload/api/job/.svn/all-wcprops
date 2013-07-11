@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/14703/MH/trunk/modules/matterhorn-fileupload/src/main/java/org/opencastproject/fileupload/api/job
+END
+Chunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-fileupload/src/main/java/org/opencastproject/fileupload/api/job/Chunk.java
+END
+Payload.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-fileupload/src/main/java/org/opencastproject/fileupload/api/job/Payload.java
+END
+FileUploadJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/14703/MH/trunk/modules/matterhorn-fileupload/src/main/java/org/opencastproject/fileupload/api/job/FileUploadJob.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-fileupload/src/main/java/org/opencastproject/fileupload/api/job/package-info.java
+END

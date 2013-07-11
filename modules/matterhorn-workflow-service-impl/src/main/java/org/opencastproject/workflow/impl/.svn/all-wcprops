@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/14855/MH/trunk/modules/matterhorn-workflow-service-impl/src/main/java/org/opencastproject/workflow/impl
+END
+WorkflowServiceIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/11887/MH/trunk/modules/matterhorn-workflow-service-impl/src/main/java/org/opencastproject/workflow/impl/WorkflowServiceIndex.java
+END
+WorkflowServiceSolrIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/14855/MH/trunk/modules/matterhorn-workflow-service-impl/src/main/java/org/opencastproject/workflow/impl/WorkflowServiceSolrIndex.java
+END
+WorkflowOperationWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/13849/MH/trunk/modules/matterhorn-workflow-service-impl/src/main/java/org/opencastproject/workflow/impl/WorkflowOperationWorker.java
+END
+WorkflowDefinitionScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/14255/MH/trunk/modules/matterhorn-workflow-service-impl/src/main/java/org/opencastproject/workflow/impl/WorkflowDefinitionScanner.java
+END
+WorkflowServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/14570/MH/trunk/modules/matterhorn-workflow-service-impl/src/main/java/org/opencastproject/workflow/impl/WorkflowServiceImpl.java
+END

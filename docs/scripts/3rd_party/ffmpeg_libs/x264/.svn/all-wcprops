@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12087/MH/trunk/docs/scripts/3rd_party/ffmpeg_libs/x264
+END
+linux-compile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10875/MH/trunk/docs/scripts/3rd_party/ffmpeg_libs/x264/linux-compile
+END
+mac-compile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10875/MH/trunk/docs/scripts/3rd_party/ffmpeg_libs/x264/mac-compile
+END
+win32-compile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11043/MH/trunk/docs/scripts/3rd_party/ffmpeg_libs/x264/win32-compile
+END
+ports-compile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11043/MH/trunk/docs/scripts/3rd_party/ffmpeg_libs/x264/ports-compile
+END
+config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12087/MH/trunk/docs/scripts/3rd_party/ffmpeg_libs/x264/config.txt
+END

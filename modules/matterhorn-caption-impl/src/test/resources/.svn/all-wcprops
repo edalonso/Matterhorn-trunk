@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12053/MH/trunk/modules/matterhorn-caption-impl/src/test/resources
+END
+sample.srt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/7260/MH/trunk/modules/matterhorn-caption-impl/src/test/resources/sample.srt
+END
+sample.mpeg7.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/12053/MH/trunk/modules/matterhorn-caption-impl/src/test/resources/sample.mpeg7.xml
+END
+sample.dfxp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7105/MH/trunk/modules/matterhorn-caption-impl/src/test/resources/sample.dfxp.xml
+END

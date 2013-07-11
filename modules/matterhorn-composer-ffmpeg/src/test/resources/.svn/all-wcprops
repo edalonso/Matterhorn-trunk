@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12676/MH/trunk/modules/matterhorn-composer-ffmpeg/src/test/resources
+END
+encodingprofiles.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/12676/MH/trunk/modules/matterhorn-composer-ffmpeg/src/test/resources/encodingprofiles.properties
+END
+encodingtestprofiles.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9221/MH/trunk/modules/matterhorn-composer-ffmpeg/src/test/resources/encodingtestprofiles.properties
+END
+slidechanges.mov
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9221/MH/trunk/modules/matterhorn-composer-ffmpeg/src/test/resources/slidechanges.mov
+END
+mp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9221/MH/trunk/modules/matterhorn-composer-ffmpeg/src/test/resources/mp.xml
+END
+captions_test_fra.srt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9221/MH/trunk/modules/matterhorn-composer-ffmpeg/src/test/resources/captions_test_fra.srt
+END
+captions_test_eng.srt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9221/MH/trunk/modules/matterhorn-composer-ffmpeg/src/test/resources/captions_test_eng.srt
+END
+image.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10178/MH/trunk/modules/matterhorn-composer-ffmpeg/src/test/resources/image.jpg
+END

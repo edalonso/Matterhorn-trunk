@@ -1,0 +1,23 @@
+#Wed Jul 10 11:12:16 CEST 2013
+/opt/matterhorn/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/feed/api/Person.java=1373447270000
+/opt/matterhorn/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/feed/api/Link.java=1373447270000
+/opt/matterhorn/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/search/api/MediaSegmentImpl.java=1373447274000
+/opt/matterhorn/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/search/api/SearchResultImpl.java=1373447274000
+/opt/matterhorn/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/feed/api/Enclosure.java=1373447270000
+/opt/matterhorn/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/search/api/SearchService.java=1373447274000
+/opt/matterhorn/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/feed/api/FeedExtension.java=1373447270000
+/opt/matterhorn/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/search/api/SearchResult.java=1373447274000
+/opt/matterhorn/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/feed/api/FeedGenerator.java=1373447270000
+/opt/matterhorn/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/search/api/SearchResultItem.java=1373447274000
+/opt/matterhorn/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/feed/api/Category.java=1373447270000
+/opt/matterhorn/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/search/api/MediaSegment.java=1373447274000
+/opt/matterhorn/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/feed/api/Content.java=1373447270000
+configuration*?=0CC22FE5934DF41FBB90450DED017C35EF404553
+/opt/matterhorn/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/search/api/MediaSegmentPreview.java=1373447274000
+/opt/matterhorn/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/search/api/SearchQuery.java=1373447274000
+/opt/matterhorn/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/feed/api/Feed.java=1373447270000
+/opt/matterhorn/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/search/api/MediaSegmentPreviewImpl.java=1373447274000
+/opt/matterhorn/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/feed/api/Image.java=1373447270000
+/opt/matterhorn/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/feed/api/FeedEntry.java=1373447270000
+/opt/matterhorn/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/search/api/SearchResultItemImpl.java=1373447274000
+/opt/matterhorn/trunk/modules/matterhorn-search-service-api/src/main/java/org/opencastproject/search/api/SearchException.java=1373447274000

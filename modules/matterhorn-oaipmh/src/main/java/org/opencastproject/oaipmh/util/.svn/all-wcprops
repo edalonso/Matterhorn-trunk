@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/12128/MH/trunk/modules/matterhorn-oaipmh/src/main/java/org/opencastproject/oaipmh/util
+END
+ConcurrencyUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/10793/MH/trunk/modules/matterhorn-oaipmh/src/main/java/org/opencastproject/oaipmh/util/ConcurrencyUtil.java
+END
+XmlGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12104/MH/trunk/modules/matterhorn-oaipmh/src/main/java/org/opencastproject/oaipmh/util/XmlGen.java
+END
+PersistenceEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/10793/MH/trunk/modules/matterhorn-oaipmh/src/main/java/org/opencastproject/oaipmh/util/PersistenceEnv.java
+END
+OsgiUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/10752/MH/trunk/modules/matterhorn-oaipmh/src/main/java/org/opencastproject/oaipmh/util/OsgiUtil.java
+END
+PersistenceUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/12128/MH/trunk/modules/matterhorn-oaipmh/src/main/java/org/opencastproject/oaipmh/util/PersistenceUtil.java
+END

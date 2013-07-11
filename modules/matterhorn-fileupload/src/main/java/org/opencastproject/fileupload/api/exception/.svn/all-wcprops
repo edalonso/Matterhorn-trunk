@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/12008/MH/trunk/modules/matterhorn-fileupload/src/main/java/org/opencastproject/fileupload/api/exception
+END
+FileUploadException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/12008/MH/trunk/modules/matterhorn-fileupload/src/main/java/org/opencastproject/fileupload/api/exception/FileUploadException.java
+END

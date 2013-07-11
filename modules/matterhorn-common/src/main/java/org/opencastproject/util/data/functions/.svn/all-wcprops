@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/14461/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/data/functions
+END
+Misc.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/13639/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/data/functions/Misc.java
+END
+Options.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/14461/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/data/functions/Options.java
+END
+Integers.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/12082/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/data/functions/Integers.java
+END
+Booleans.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/14299/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/data/functions/Booleans.java
+END
+Eithers.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/13639/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/data/functions/Eithers.java
+END
+Functions.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/14250/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/data/functions/Functions.java
+END
+Strings.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/13639/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/util/data/functions/Strings.java
+END

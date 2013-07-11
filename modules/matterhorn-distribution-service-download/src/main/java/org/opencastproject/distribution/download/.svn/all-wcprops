@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/14515/MH/trunk/modules/matterhorn-distribution-service-download/src/main/java/org/opencastproject/distribution/download
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/7443/MH/trunk/modules/matterhorn-distribution-service-download/src/main/java/org/opencastproject/distribution/download/package-info.java
+END
+DownloadDistributionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/14462/MH/trunk/modules/matterhorn-distribution-service-download/src/main/java/org/opencastproject/distribution/download/DownloadDistributionServiceImpl.java
+END

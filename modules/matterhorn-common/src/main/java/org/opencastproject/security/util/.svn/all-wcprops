@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/14065/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/security/util
+END
+SecurityContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/14065/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/security/util/SecurityContext.java
+END
+StandAloneTrustedHttpClientImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/12330/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/security/util/StandAloneTrustedHttpClientImpl.java
+END
+SecurityUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/13392/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/security/util/SecurityUtil.java
+END

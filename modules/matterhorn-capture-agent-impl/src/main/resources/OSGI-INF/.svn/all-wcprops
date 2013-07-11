@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/12081/MH/trunk/modules/matterhorn-capture-agent-impl/src/main/resources/OSGI-INF
+END
+configuration-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/7340/MH/trunk/modules/matterhorn-capture-agent-impl/src/main/resources/OSGI-INF/configuration-service.xml
+END
+gstreamer-capture-framework.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/10357/MH/trunk/modules/matterhorn-capture-agent-impl/src/main/resources/OSGI-INF/gstreamer-capture-framework.xml
+END
+state-service-rest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9585/MH/trunk/modules/matterhorn-capture-agent-impl/src/main/resources/OSGI-INF/state-service-rest.xml
+END
+confidence-monitor-service-rest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/9585/MH/trunk/modules/matterhorn-capture-agent-impl/src/main/resources/OSGI-INF/confidence-monitor-service-rest.xml
+END
+capture-service-rest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/9585/MH/trunk/modules/matterhorn-capture-agent-impl/src/main/resources/OSGI-INF/capture-service-rest.xml
+END
+scheduler-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/7341/MH/trunk/modules/matterhorn-capture-agent-impl/src/main/resources/OSGI-INF/scheduler-service.xml
+END
+confidence-monitor-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/10942/MH/trunk/modules/matterhorn-capture-agent-impl/src/main/resources/OSGI-INF/confidence-monitor-service.xml
+END
+capture-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/10942/MH/trunk/modules/matterhorn-capture-agent-impl/src/main/resources/OSGI-INF/capture-service.xml
+END
+capture-files.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/12081/MH/trunk/modules/matterhorn-capture-agent-impl/src/main/resources/OSGI-INF/capture-files.xml
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/14270/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/mediapackage/elementbuilder
+END
+TrackBuilderPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/9454/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/mediapackage/elementbuilder/TrackBuilderPlugin.java
+END
+MediaPackageElementBuilderPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/9454/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/mediapackage/elementbuilder/MediaPackageElementBuilderPlugin.java
+END
+AttachmentBuilderPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/9454/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/mediapackage/elementbuilder/AttachmentBuilderPlugin.java
+END
+PublicationBuilderPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/14270/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/mediapackage/elementbuilder/PublicationBuilderPlugin.java
+END
+CatalogBuilderPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/10721/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/mediapackage/elementbuilder/CatalogBuilderPlugin.java
+END
+AbstractAttachmentBuilderPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/9454/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/mediapackage/elementbuilder/AbstractAttachmentBuilderPlugin.java
+END
+AbstractElementBuilderPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/13004/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/mediapackage/elementbuilder/AbstractElementBuilderPlugin.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/mediapackage/elementbuilder/package-info.java
+END

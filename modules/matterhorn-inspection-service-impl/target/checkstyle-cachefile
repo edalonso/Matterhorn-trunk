@@ -1,0 +1,15 @@
+#Wed Jul 10 11:22:23 CEST 2013
+/opt/matterhorn/trunk/modules/matterhorn-inspection-service-impl/src/main/java/org/opencastproject/inspection/impl/api/MediaAnalyzerException.java=1373447270000
+/opt/matterhorn/trunk/modules/matterhorn-inspection-service-impl/src/main/java/org/opencastproject/inspection/impl/api/TemporalMetadata.java=1373447270000
+/opt/matterhorn/trunk/modules/matterhorn-inspection-service-impl/src/main/java/org/opencastproject/inspection/impl/api/AudioStreamMetadata.java=1373447270000
+/opt/matterhorn/trunk/modules/matterhorn-inspection-service-impl/src/main/java/org/opencastproject/inspection/impl/api/VideoStreamMetadata.java=1373447270000
+/opt/matterhorn/trunk/modules/matterhorn-inspection-service-impl/src/main/java/org/opencastproject/inspection/impl/endpoints/MediaInspectionRestEndpoint.java=1373447269000
+/opt/matterhorn/trunk/modules/matterhorn-inspection-service-impl/src/main/java/org/opencastproject/inspection/impl/api/CommonMetadata.java=1373447270000
+/opt/matterhorn/trunk/modules/matterhorn-inspection-service-impl/src/main/java/org/opencastproject/inspection/impl/api/util/CmdlineMediaAnalyzerSupport.java=1373447270000
+/opt/matterhorn/trunk/modules/matterhorn-inspection-service-impl/src/main/java/org/opencastproject/inspection/impl/MediaInfoAnalyzer.java=1373447270000
+/opt/matterhorn/trunk/modules/matterhorn-inspection-service-impl/src/main/java/org/opencastproject/inspection/impl/api/MediaContainerMetadata.java=1373447270000
+/opt/matterhorn/trunk/modules/matterhorn-inspection-service-impl/src/main/java/org/opencastproject/inspection/impl/api/StreamMetadata.java=1373447270000
+/opt/matterhorn/trunk/modules/matterhorn-inspection-service-impl/src/main/java/org/opencastproject/inspection/impl/MediaInspectionServiceImpl.java=1373447270000
+/opt/matterhorn/trunk/modules/matterhorn-inspection-service-impl/src/test/java/org/opencastproject/inspection/impl/MediaInspectionServiceImplTest.java=1373447269000
+configuration*?=D8E64CEB04AA5B16E9F1B862E7621EF78B1BBAF8
+/opt/matterhorn/trunk/modules/matterhorn-inspection-service-impl/src/main/java/org/opencastproject/inspection/impl/api/MediaAnalyzer.java=1373447270000

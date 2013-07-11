@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/14544/MH/trunk/modules/matterhorn-serviceregistry/src/main/java/org/opencastproject/serviceregistry/impl
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-serviceregistry/src/main/java/org/opencastproject/serviceregistry/impl/package-info.java
+END
+HostRegistrationJpaImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/13824/MH/trunk/modules/matterhorn-serviceregistry/src/main/java/org/opencastproject/serviceregistry/impl/HostRegistrationJpaImpl.java
+END
+ServiceRegistryJpaImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/14544/MH/trunk/modules/matterhorn-serviceregistry/src/main/java/org/opencastproject/serviceregistry/impl/ServiceRegistryJpaImpl.java
+END
+JobJpaImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/13824/MH/trunk/modules/matterhorn-serviceregistry/src/main/java/org/opencastproject/serviceregistry/impl/JobJpaImpl.java
+END
+ServiceRegistrationJpaImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/13824/MH/trunk/modules/matterhorn-serviceregistry/src/main/java/org/opencastproject/serviceregistry/impl/ServiceRegistrationJpaImpl.java
+END
+JobPropertyJpaImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/13824/MH/trunk/modules/matterhorn-serviceregistry/src/main/java/org/opencastproject/serviceregistry/impl/JobPropertyJpaImpl.java
+END

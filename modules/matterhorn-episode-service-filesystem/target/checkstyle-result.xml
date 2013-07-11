@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.0">
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-filesystem/src/main/java/org/opencastproject/episode/filesystem/FileSystemElementStore.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-filesystem/src/test/java/org/opencastproject/episode/filesystem/FileSystemElementStoreTest.java">
+</file>
+</checkstyle>

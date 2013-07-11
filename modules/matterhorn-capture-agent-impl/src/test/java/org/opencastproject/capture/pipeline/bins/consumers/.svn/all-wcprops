@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/12835/MH/trunk/modules/matterhorn-capture-agent-impl/src/test/java/org/opencastproject/capture/pipeline/bins/consumers
+END
+CustomConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/10521/MH/trunk/modules/matterhorn-capture-agent-impl/src/test/java/org/opencastproject/capture/pipeline/bins/consumers/CustomConsumerTest.java
+END
+RTPSinkConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/12035/MH/trunk/modules/matterhorn-capture-agent-impl/src/test/java/org/opencastproject/capture/pipeline/bins/consumers/RTPSinkConsumerTest.java
+END
+VideoFilesinkConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/12572/MH/trunk/modules/matterhorn-capture-agent-impl/src/test/java/org/opencastproject/capture/pipeline/bins/consumers/VideoFilesinkConsumerTest.java
+END
+VideoMonitoringConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/10962/MH/trunk/modules/matterhorn-capture-agent-impl/src/test/java/org/opencastproject/capture/pipeline/bins/consumers/VideoMonitoringConsumerTest.java
+END
+AudioFilesinkConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/10812/MH/trunk/modules/matterhorn-capture-agent-impl/src/test/java/org/opencastproject/capture/pipeline/bins/consumers/AudioFilesinkConsumerTest.java
+END
+AudioMonitoringConsumerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/10942/MH/trunk/modules/matterhorn-capture-agent-impl/src/test/java/org/opencastproject/capture/pipeline/bins/consumers/AudioMonitoringConsumerTest.java
+END
+ConsumerFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/12835/MH/trunk/modules/matterhorn-capture-agent-impl/src/test/java/org/opencastproject/capture/pipeline/bins/consumers/ConsumerFactoryTest.java
+END
+ConsumerBinTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/10478/MH/trunk/modules/matterhorn-capture-agent-impl/src/test/java/org/opencastproject/capture/pipeline/bins/consumers/ConsumerBinTest.java
+END

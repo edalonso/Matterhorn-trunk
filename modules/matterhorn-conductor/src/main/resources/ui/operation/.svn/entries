@@ -1,0 +1,55 @@
+10
+
+dir
+15027
+https://opencast.jira.com/svn/MH/trunk/modules/matterhorn-conductor/src/main/resources/ui/operation
+https://opencast.jira.com/svn
+
+
+
+2013-06-06T09:22:10.369340Z
+14821
+ruben.perez
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e6edf6fb-f266-4316-afb4-e53d95876a76
+
+trim
+dir
+
+schedule
+dir
+
+caption
+dir
+
+review
+dir
+
+download-dvd
+dir
+
+capture
+dir
+
+retry-strategy
+dir
+
+append
+dir
+
+ingest
+dir
+

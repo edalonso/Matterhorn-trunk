@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/12345/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/mediapackage/selector
+END
+AbstractMediaPackageElementSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/12345/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/mediapackage/selector/AbstractMediaPackageElementSelector.java
+END
+AudioElementSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/12030/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/mediapackage/selector/AudioElementSelector.java
+END
+FlavorPrioritySelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/12030/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/mediapackage/selector/FlavorPrioritySelector.java
+END
+AudioVisualElementSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/12030/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/mediapackage/selector/AudioVisualElementSelector.java
+END
+PresenterFirstSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/11505/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/mediapackage/selector/PresenterFirstSelector.java
+END
+TrackFlavorPrioritySelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/12030/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/mediapackage/selector/TrackFlavorPrioritySelector.java
+END
+VideoElementSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/12030/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/mediapackage/selector/VideoElementSelector.java
+END
+PresentationFirstSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/12030/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/mediapackage/selector/PresentationFirstSelector.java
+END
+SimpleElementSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/9454/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/mediapackage/selector/SimpleElementSelector.java
+END
+TrackSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/9454/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/mediapackage/selector/TrackSelector.java
+END
+SimpleFlavorPrioritySelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/12324/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/mediapackage/selector/SimpleFlavorPrioritySelector.java
+END
+StreamElementSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/12030/MH/trunk/modules/matterhorn-common/src/main/java/org/opencastproject/mediapackage/selector/StreamElementSelector.java
+END

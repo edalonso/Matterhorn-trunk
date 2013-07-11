@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/14256/MH/trunk/shared-resources/templates
+END
+additional-description.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14256/MH/trunk/shared-resources/templates/additional-description.tpl
+END
+processing-instructions.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/13619/MH/trunk/shared-resources/templates/processing-instructions.tpl
+END
+common-data.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/13965/MH/trunk/shared-resources/templates/common-data.tpl
+END

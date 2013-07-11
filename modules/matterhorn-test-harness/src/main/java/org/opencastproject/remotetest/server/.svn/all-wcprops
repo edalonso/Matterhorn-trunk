@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/14696/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server
+END
+ComposerRestEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/ComposerRestEndpointTest.java
+END
+MaintenanceModeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/MaintenanceModeTest.java
+END
+UnscheduledCaptureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/UnscheduledCaptureTest.java
+END
+LtiAuthenticationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/12678/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/LtiAuthenticationTest.java
+END
+IngestRestEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/13526/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/IngestRestEndpointTest.java
+END
+ServiceRegistryRestEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/ServiceRegistryRestEndpointTest.java
+END
+WorkflowAuthorizationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/WorkflowAuthorizationTest.java
+END
+EngageModuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/12008/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/EngageModuleTest.java
+END
+FileCopyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/10721/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/FileCopyTests.java
+END
+RetryStrategiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/12030/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/RetryStrategiesTest.java
+END
+OaiPmhServerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/13560/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/OaiPmhServerTest.java
+END
+WorkingFileRepoRestEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/10416/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/WorkingFileRepoRestEndpointTest.java
+END
+DistributionDownloadRestEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/14515/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/DistributionDownloadRestEndpointTest.java
+END
+FailingPreProcessingWorkflowTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/FailingPreProcessingWorkflowTest.java
+END
+EpisodeServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/12573/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/EpisodeServiceTest.java
+END
+WorkflowRestEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/14696/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/WorkflowRestEndpointTest.java
+END
+CaptureAdminRestEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/12582/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/CaptureAdminRestEndpointTest.java
+END
+IngestZipTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/10416/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/IngestZipTest.java
+END
+PreProcessingWorkflowTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/11021/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/PreProcessingWorkflowTest.java
+END
+DigestAuthenticationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/9585/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/DigestAuthenticationTest.java
+END
+MultiPartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/9585/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/MultiPartTest.java
+END
+ScheduledCaptureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/ScheduledCaptureTest.java
+END
+UploadTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/12524/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/UploadTest.java
+END
+YouTubePublicationRestEndpointTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/14250/MH/trunk/modules/matterhorn-test-harness/src/main/java/org/opencastproject/remotetest/server/YouTubePublicationRestEndpointTest.java
+END

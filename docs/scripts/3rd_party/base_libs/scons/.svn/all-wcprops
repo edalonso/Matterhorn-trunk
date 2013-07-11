@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12087/MH/trunk/docs/scripts/3rd_party/base_libs/scons
+END
+config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12087/MH/trunk/docs/scripts/3rd_party/base_libs/scons/config.txt
+END
+clean-up
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9494/MH/trunk/docs/scripts/3rd_party/base_libs/scons/clean-up
+END
+linux-compile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10076/MH/trunk/docs/scripts/3rd_party/base_libs/scons/linux-compile
+END
+mac-compile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10076/MH/trunk/docs/scripts/3rd_party/base_libs/scons/mac-compile
+END
+mingw.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9190/MH/trunk/docs/scripts/3rd_party/base_libs/scons/mingw.py
+END
+ports-compile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11043/MH/trunk/docs/scripts/3rd_party/base_libs/scons/ports-compile
+END

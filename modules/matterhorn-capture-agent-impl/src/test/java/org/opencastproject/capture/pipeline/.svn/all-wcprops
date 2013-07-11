@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/12835/MH/trunk/modules/matterhorn-capture-agent-impl/src/test/java/org/opencastproject/capture/pipeline
+END
+CaptureDeviceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/10076/MH/trunk/modules/matterhorn-capture-agent-impl/src/test/java/org/opencastproject/capture/pipeline/CaptureDeviceTest.java
+END
+PipelineTestHelpers.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/10406/MH/trunk/modules/matterhorn-capture-agent-impl/src/test/java/org/opencastproject/capture/pipeline/PipelineTestHelpers.java
+END

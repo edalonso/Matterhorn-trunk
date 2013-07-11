@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.0">
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/endpoint/OsgiEpisodeServiceRestEndpoint.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/endpoint/AbstractEpisodeServiceRestEndpoint.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/solr/Schema.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/solr/SolrIndexManager.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/solr/SolrRequester.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/solr/DField.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/EpisodeServiceImpl.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/persistence/VersionClaimDto.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/persistence/EpisodeServiceDatabaseException.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/persistence/EpisodeDto.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/persistence/AssetDto.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/persistence/Asset.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/persistence/EpisodeServiceDatabase.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/persistence/AbstractEpisodeServiceDatabase.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/persistence/Episode.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/persistence/OsgiEpisodeServiceDatabase.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/StoragePath.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/Protected.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/PartialMediaPackage.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/elementstore/Source.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/elementstore/ElementStore.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/elementstore/DeletionSelector.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/elementstore/ElementStoreException.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/EpisodeServicePublisher.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/jmx/ElementStoreMXBean.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/jmx/ElementStoreBean.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/Convert.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/Util.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/test/java/org/opencastproject/episode/impl/EpisodeServiceImplTest.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/test/java/org/opencastproject/episode/persistence/EpisodeServicePersistenceTest.java">
+</file>
+<file name="/opt/matterhorn/trunk/modules/matterhorn-episode-service-impl/src/test/java/org/opencastproject/episode/EpisodeServiceTestEnv.java">
+</file>
+</checkstyle>

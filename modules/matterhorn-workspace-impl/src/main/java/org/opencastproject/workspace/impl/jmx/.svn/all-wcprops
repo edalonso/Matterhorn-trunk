@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/13175/MH/trunk/modules/matterhorn-workspace-impl/src/main/java/org/opencastproject/workspace/impl/jmx
+END
+WorkspaceBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/13175/MH/trunk/modules/matterhorn-workspace-impl/src/main/java/org/opencastproject/workspace/impl/jmx/WorkspaceBean.java
+END
+WorkspaceMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/12570/MH/trunk/modules/matterhorn-workspace-impl/src/main/java/org/opencastproject/workspace/impl/jmx/WorkspaceMXBean.java
+END

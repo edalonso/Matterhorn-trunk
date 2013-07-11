@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/14855/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl
+END
+EpisodeServicePublisher.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/14855/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/EpisodeServicePublisher.java
+END
+PartialMediaPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/14250/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/PartialMediaPackage.java
+END
+Protected.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/13996/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/Protected.java
+END
+EpisodeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/14848/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/EpisodeServiceImpl.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/13996/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/Util.java
+END
+Convert.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/14074/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/Convert.java
+END
+StoragePath.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/14349/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/StoragePath.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/12573/MH/trunk/modules/matterhorn-episode-service-impl/src/main/java/org/opencastproject/episode/impl/package-info.java
+END

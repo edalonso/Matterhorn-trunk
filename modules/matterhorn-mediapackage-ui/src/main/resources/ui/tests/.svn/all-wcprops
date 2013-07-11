@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/13366/MH/trunk/modules/matterhorn-mediapackage-ui/src/main/resources/ui/tests
+END
+qunit.css
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/12030/MH/trunk/modules/matterhorn-mediapackage-ui/src/main/resources/ui/tests/qunit.css
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/12533/MH/trunk/modules/matterhorn-mediapackage-ui/src/main/resources/ui/tests/index.html
+END
+qunit.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/12030/MH/trunk/modules/matterhorn-mediapackage-ui/src/main/resources/ui/tests/qunit.js
+END

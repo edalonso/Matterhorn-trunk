@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/12682/MH/trunk/modules/matterhorn-analytics-impl/src/main/resources/OSGI-INF
+END
+analytics-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/12682/MH/trunk/modules/matterhorn-analytics-impl/src/main/resources/OSGI-INF/analytics-impl.xml
+END
+analytics-rest-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/12682/MH/trunk/modules/matterhorn-analytics-impl/src/main/resources/OSGI-INF/analytics-rest-service.xml
+END

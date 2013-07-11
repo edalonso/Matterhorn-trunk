@@ -1,0 +1,19 @@
+K 10
+svn:ignore
+V 7
+target
+
+K 13
+svn:mergeinfo
+V 728
+/MH/branches/1.2.x/modules/matterhorn-kernel:10783-11138
+/MH/branches/1.3.x/modules/matterhorn-kernel:11563,12344
+/MH/branches/1.4.x/modules/matterhorn-kernel:12115,12578,12901,14460
+/MH/branches/MH-8232/modules/matterhorn-kernel:11086-11993
+/MH/branches/MH-8395/modules/matterhorn-kernel:11415-12023
+/MH/branches/bugbash2/modules/matterhorn-kernel:13282,13284-13295,13298,13301,13304,13306-13313,13315-13321,13323-13329,13335,13339,13342-13343,13390-13391,13449,13673
+/MH/msub/berkeley.edu/1.2.x/modules/matterhorn-kernel:11186
+/MH/msub/berkeley.edu/trunk/modules/matterhorn-kernel:14174
+/MH/msub/uct.ac.za/branches/1.3.x/modules/matterhorn-kernel:12433
+/MH/msub/uct.ac.za/branches/MH-8311/modules/matterhorn-kernel:11389-11390
+END

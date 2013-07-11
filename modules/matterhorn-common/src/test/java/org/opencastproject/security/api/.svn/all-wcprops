@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/13533/MH/trunk/modules/matterhorn-common/src/test/java/org/opencastproject/security/api
+END
+OrganizationParsingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/13533/MH/trunk/modules/matterhorn-common/src/test/java/org/opencastproject/security/api/OrganizationParsingTest.java
+END
+AccessControlParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/10450/MH/trunk/modules/matterhorn-common/src/test/java/org/opencastproject/security/api/AccessControlParserTest.java
+END
+AccessControlUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/10867/MH/trunk/modules/matterhorn-common/src/test/java/org/opencastproject/security/api/AccessControlUtilTest.java
+END

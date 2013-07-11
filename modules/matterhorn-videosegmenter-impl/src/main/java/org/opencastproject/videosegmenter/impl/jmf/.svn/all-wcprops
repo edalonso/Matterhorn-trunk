@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/11140/MH/trunk/modules/matterhorn-videosegmenter-impl/src/main/java/org/opencastproject/videosegmenter/impl/jmf
+END
+PlayerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/9108/MH/trunk/modules/matterhorn-videosegmenter-impl/src/main/java/org/opencastproject/videosegmenter/impl/jmf/PlayerListener.java
+END
+ImageUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/10201/MH/trunk/modules/matterhorn-videosegmenter-impl/src/main/java/org/opencastproject/videosegmenter/impl/jmf/ImageUtils.java
+END
+ImageComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/9108/MH/trunk/modules/matterhorn-videosegmenter-impl/src/main/java/org/opencastproject/videosegmenter/impl/jmf/ImageComparator.java
+END
+FrameGrabber.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/11140/MH/trunk/modules/matterhorn-videosegmenter-impl/src/main/java/org/opencastproject/videosegmenter/impl/jmf/FrameGrabber.java
+END

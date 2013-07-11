@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/13334/MH/trunk/modules/matterhorn-usertracking-api/src/main/java/org/opencastproject/usertracking/api
+END
+UserActionList.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/13334/MH/trunk/modules/matterhorn-usertracking-api/src/main/java/org/opencastproject/usertracking/api/UserActionList.java
+END
+UserSummaryList.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/13334/MH/trunk/modules/matterhorn-usertracking-api/src/main/java/org/opencastproject/usertracking/api/UserSummaryList.java
+END
+ReportItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/13334/MH/trunk/modules/matterhorn-usertracking-api/src/main/java/org/opencastproject/usertracking/api/ReportItem.java
+END
+Report.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/13334/MH/trunk/modules/matterhorn-usertracking-api/src/main/java/org/opencastproject/usertracking/api/Report.java
+END
+UserAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/13334/MH/trunk/modules/matterhorn-usertracking-api/src/main/java/org/opencastproject/usertracking/api/UserAction.java
+END
+UserSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/13334/MH/trunk/modules/matterhorn-usertracking-api/src/main/java/org/opencastproject/usertracking/api/UserSummary.java
+END
+Stats.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/13334/MH/trunk/modules/matterhorn-usertracking-api/src/main/java/org/opencastproject/usertracking/api/Stats.java
+END
+FootprintList.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/13334/MH/trunk/modules/matterhorn-usertracking-api/src/main/java/org/opencastproject/usertracking/api/FootprintList.java
+END
+UserTrackingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/13334/MH/trunk/modules/matterhorn-usertracking-api/src/main/java/org/opencastproject/usertracking/api/UserTrackingException.java
+END
+UserTrackingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/13334/MH/trunk/modules/matterhorn-usertracking-api/src/main/java/org/opencastproject/usertracking/api/UserTrackingService.java
+END
+Footprint.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/13334/MH/trunk/modules/matterhorn-usertracking-api/src/main/java/org/opencastproject/usertracking/api/Footprint.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/13334/MH/trunk/modules/matterhorn-usertracking-api/src/main/java/org/opencastproject/usertracking/api/package-info.java
+END
