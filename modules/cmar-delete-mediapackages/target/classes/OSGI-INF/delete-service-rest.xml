@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.1.0"
+    name="org.opencastproject.delete.impl.DeleteRestService"
+    immediate="true" activate="activate" deactivate="deactivate">
+  <implementation class="org.opencastproject.delete.impl.DeleteRestService" />
+  <property name="service.description" value="Delete REST Endpoint" />
+  <property name="opencast.service.type" value="org.opencastproject.delete" />
+  <property name="opencast.service.path" value="/cmardelete" />
+  <service>
+    <provide interface="org.opencastproject.delete.impl.DeleteRestService" />
+  </service>
+  <reference name="trustedHttpClient" interface="org.opencastproject.security.api.TrustedHttpClient"
+      cardinality="1..1" policy="static" bind="setTrustedHttpClient" />
+</scr:component>

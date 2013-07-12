@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.0">
+<file name="/opt/matterhorn/.src/1.2-local/modules/cmar-delete-mediapackages/src/main/java/org/opencastproject/delete/impl/DeleteRestService.java">
+<error line="36" column="8" severity="error" message="import no usado - java.io.File." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="38" column="8" severity="error" message="import no usado - org.opencastproject.search.impl.solr.SolrRequester." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+</checkstyle>
